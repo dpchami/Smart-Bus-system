@@ -1,0 +1,3161 @@
+2018-07-03 22:11:47 [127.0.0.1][-][-][error][usuario] Getting unknown property: Da\User\Model\User::auth_tf_key
+    in /home/hosanna/projects/testing/smartCityBus/vendor/2amigos/yii2-usuario/src/User/Service/UserRegisterService.php:91
+    in /home/hosanna/projects/testing/smartCityBus/vendor/2amigos/yii2-usuario/src/User/Controller/RegistrationController.php:108
+2018-07-03 22:11:47 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = [
+    '_csrf' => 'PY2FNSmfN1tFJywaHdFzRDdNgFGzND-jHJSJ6mxaeaxY97RReNwHbgMVG3BlhjkAASz4I_pzfcFQzOiNVTMY9g=='
+    'RegistrationForm' => [
+        'email' => 'admin@admin.com'
+        'username' => 'deus'
+        'password' => '1234567890'
+    ]
+]
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'l4e9n44i7pps3p107dct2rtqba'
+    '_csrf' => 'afc98540e638f10949c93a38feae9b592e7ab9984da196b75a7eea542f3d36f1a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"ez1dQC05F27jxWJD6axrIGBbLXag9iaZ\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/hosanna/projects/testing/smartCityBus/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '46222'
+    'SERVER_SOFTWARE' => 'PHP 7.2.5-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/user/registration/register'
+    'REQUEST_METHOD' => 'POST'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/hosanna/projects/testing/smartCityBus/web/index.php'
+    'PATH_INFO' => '/user/registration/register'
+    'PHP_SELF' => '/index.php/user/registration/register'
+    'HTTP_HOST' => '127.0.0.1:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://127.0.0.1:8080/user/registration/register'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'HTTP_CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '222'
+    'HTTP_CONTENT_LENGTH' => '222'
+    'HTTP_COOKIE' => 'PHPSESSID=l4e9n44i7pps3p107dct2rtqba; _csrf=afc98540e638f10949c93a38feae9b592e7ab9984da196b75a7eea542f3d36f1a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22ez1dQC05F27jxWJD6axrIGBbLXag9iaZ%22%3B%7D'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1530655907.1987
+    'REQUEST_TIME' => 1530655907
+]
+2018-07-03 22:15:27 [127.0.0.1][-][-][error][usuario] Getting unknown property: Da\User\Model\User::auth_tf_key
+    in /home/hosanna/projects/testing/smartCityBus/vendor/2amigos/yii2-usuario/src/User/Service/UserRegisterService.php:91
+    in /home/hosanna/projects/testing/smartCityBus/vendor/2amigos/yii2-usuario/src/User/Controller/RegistrationController.php:108
+2018-07-03 22:15:27 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = [
+    '_csrf' => 'ww0fdK9BckvD8T2a41coCUTtTCiHtUAQd1KzotOuDgGmdy4Q_gJCfoXDCvCbAGJNcow0Ws7yAnI7CtLF6sdvWw=='
+    'RegistrationForm' => [
+        'email' => 'admin@admin.com'
+        'username' => 'deus'
+        'password' => '1234567890'
+    ]
+]
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'l4e9n44i7pps3p107dct2rtqba'
+    '_csrf' => 'afc98540e638f10949c93a38feae9b592e7ab9984da196b75a7eea542f3d36f1a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"ez1dQC05F27jxWJD6axrIGBbLXag9iaZ\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/hosanna/projects/testing/smartCityBus/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '46350'
+    'SERVER_SOFTWARE' => 'PHP 7.2.5-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/user/registration/register'
+    'REQUEST_METHOD' => 'POST'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/hosanna/projects/testing/smartCityBus/web/index.php'
+    'PATH_INFO' => '/user/registration/register'
+    'PHP_SELF' => '/index.php/user/registration/register'
+    'HTTP_HOST' => '127.0.0.1:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://127.0.0.1:8080/user/registration/register'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'HTTP_CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '222'
+    'HTTP_CONTENT_LENGTH' => '222'
+    'HTTP_COOKIE' => 'PHPSESSID=l4e9n44i7pps3p107dct2rtqba; _csrf=afc98540e638f10949c93a38feae9b592e7ab9984da196b75a7eea542f3d36f1a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22ez1dQC05F27jxWJD6axrIGBbLXag9iaZ%22%3B%7D'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1530656127.0806
+    'REQUEST_TIME' => 1530656127
+]
+2018-07-03 22:18:34 [127.0.0.1][-][-][error][usuario] Getting unknown property: Da\User\Model\User::auth_tf_key
+    in /home/hosanna/projects/testing/smartCityBus/vendor/2amigos/yii2-usuario/src/User/Service/UserRegisterService.php:91
+    in /home/hosanna/projects/testing/smartCityBus/vendor/2amigos/yii2-usuario/src/User/Controller/RegistrationController.php:108
+2018-07-03 22:18:33 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = [
+    '_csrf' => 'ww0fdK9BckvD8T2a41coCUTtTCiHtUAQd1KzotOuDgGmdy4Q_gJCfoXDCvCbAGJNcow0Ws7yAnI7CtLF6sdvWw=='
+    'RegistrationForm' => [
+        'email' => 'admin@admin.com'
+        'username' => 'deus'
+        'password' => '1234567890'
+    ]
+]
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'l4e9n44i7pps3p107dct2rtqba'
+    '_csrf' => 'afc98540e638f10949c93a38feae9b592e7ab9984da196b75a7eea542f3d36f1a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"ez1dQC05F27jxWJD6axrIGBbLXag9iaZ\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/hosanna/projects/testing/smartCityBus/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '46426'
+    'SERVER_SOFTWARE' => 'PHP 7.2.5-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/user/registration/register'
+    'REQUEST_METHOD' => 'POST'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/hosanna/projects/testing/smartCityBus/web/index.php'
+    'PATH_INFO' => '/user/registration/register'
+    'PHP_SELF' => '/index.php/user/registration/register'
+    'HTTP_HOST' => '127.0.0.1:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://127.0.0.1:8080/user/registration/register'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'HTTP_CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '222'
+    'HTTP_CONTENT_LENGTH' => '222'
+    'HTTP_COOKIE' => 'PHPSESSID=l4e9n44i7pps3p107dct2rtqba; _csrf=afc98540e638f10949c93a38feae9b592e7ab9984da196b75a7eea542f3d36f1a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22ez1dQC05F27jxWJD6axrIGBbLXag9iaZ%22%3B%7D'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1530656313.9118
+    'REQUEST_TIME' => 1530656313
+]
+2018-07-03 22:19:15 [127.0.0.1][-][-][error][usuario] Getting unknown property: Da\User\Model\User::auth_tf_key
+    in /home/hosanna/projects/testing/smartCityBus/vendor/2amigos/yii2-usuario/src/User/Service/UserRegisterService.php:91
+    in /home/hosanna/projects/testing/smartCityBus/vendor/2amigos/yii2-usuario/src/User/Controller/RegistrationController.php:108
+2018-07-03 22:19:15 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = [
+    '_csrf' => 'sjIKywEJ2afY5rlbxtQcRDxzRugwL9-aV0ximDru8-jXSDuvUErpkp7UjjG-g1YAChI-mnlonfgbFAP_A4eSsg=='
+    'RegistrationForm' => [
+        'email' => 'admin@admin.com'
+        'username' => 'deus'
+        'password' => 'deus12345'
+    ]
+]
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'l4e9n44i7pps3p107dct2rtqba'
+    '_csrf' => 'afc98540e638f10949c93a38feae9b592e7ab9984da196b75a7eea542f3d36f1a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"ez1dQC05F27jxWJD6axrIGBbLXag9iaZ\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/hosanna/projects/testing/smartCityBus/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '46506'
+    'SERVER_SOFTWARE' => 'PHP 7.2.5-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/user/registration/register'
+    'REQUEST_METHOD' => 'POST'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/hosanna/projects/testing/smartCityBus/web/index.php'
+    'PATH_INFO' => '/user/registration/register'
+    'PHP_SELF' => '/index.php/user/registration/register'
+    'HTTP_HOST' => '127.0.0.1:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://127.0.0.1:8080/user/registration/register'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'HTTP_CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '221'
+    'HTTP_CONTENT_LENGTH' => '221'
+    'HTTP_COOKIE' => 'PHPSESSID=l4e9n44i7pps3p107dct2rtqba; _csrf=afc98540e638f10949c93a38feae9b592e7ab9984da196b75a7eea542f3d36f1a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22ez1dQC05F27jxWJD6axrIGBbLXag9iaZ%22%3B%7D'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1530656355.1883
+    'REQUEST_TIME' => 1530656355
+]
+2018-07-03 22:20:32 [127.0.0.1][-][l4e9n44i7pps3p107dct2rtqba][error][ParseError] ParseError: syntax error, unexpected 'if' (T_IF) in /home/hosanna/projects/testing/smartCityBus/vendor/2amigos/yii2-usuario/src/User/Controller/RegistrationController.php:110
+Stack trace:
+#0 [internal function]: yii\BaseYii::autoload('Da\\User\\Control...')
+#1 [internal function]: spl_autoload_call('Da\\User\\Control...')
+#2 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Module.php(637): class_exists('Da\\User\\Control...')
+#3 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Module.php(596): yii\base\Module->createControllerByID('registration')
+#4 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Module.php(588): yii\base\Module->createController('register')
+#5 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Module.php(522): yii\base\Module->createController('registration/re...')
+#6 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('user/registrati...', Array)
+#7 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#8 /home/hosanna/projects/testing/smartCityBus/web/index.php(12): yii\base\Application->run()
+#9 {main}
+
+Next ParseError: syntax error, unexpected 'if' (T_IF) in /home/hosanna/projects/testing/smartCityBus/vendor/2amigos/yii2-usuario/src/User/Controller/RegistrationController.php:110
+Stack trace:
+#0 /home/hosanna/projects/testing/smartCityBus/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/hosanna/p...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('Da\\User\\Control...')
+#2 [internal function]: spl_autoload_call('Da\\User\\Control...')
+#3 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Module.php(637): class_exists('Da\\User\\Control...')
+#4 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Module.php(596): yii\base\Module->createControllerByID('registration')
+#5 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Module.php(588): yii\base\Module->createController('register')
+#6 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Module.php(522): yii\base\Module->createController('registration/re...')
+#7 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('user/registrati...', Array)
+#8 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#9 /home/hosanna/projects/testing/smartCityBus/web/index.php(12): yii\base\Application->run()
+#10 {main}
+2018-07-03 22:20:32 [127.0.0.1][-][l4e9n44i7pps3p107dct2rtqba][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'l4e9n44i7pps3p107dct2rtqba'
+    '_csrf' => 'afc98540e638f10949c93a38feae9b592e7ab9984da196b75a7eea542f3d36f1a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"ez1dQC05F27jxWJD6axrIGBbLXag9iaZ\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/hosanna/projects/testing/smartCityBus/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '46544'
+    'SERVER_SOFTWARE' => 'PHP 7.2.5-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/user/registration/register'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/hosanna/projects/testing/smartCityBus/web/index.php'
+    'PATH_INFO' => '/user/registration/register'
+    'PHP_SELF' => '/index.php/user/registration/register'
+    'HTTP_HOST' => '127.0.0.1:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_COOKIE' => 'PHPSESSID=l4e9n44i7pps3p107dct2rtqba; _csrf=afc98540e638f10949c93a38feae9b592e7ab9984da196b75a7eea542f3d36f1a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22ez1dQC05F27jxWJD6axrIGBbLXag9iaZ%22%3B%7D'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1530656432.1028
+    'REQUEST_TIME' => 1530656432
+]
+2018-07-03 22:21:27 [127.0.0.1][-][-][error][usuario] Getting unknown property: Da\User\Model\User::auth_tf_key
+    in /home/hosanna/projects/testing/smartCityBus/vendor/2amigos/yii2-usuario/src/User/Service/UserRegisterService.php:91
+    in /home/hosanna/projects/testing/smartCityBus/vendor/2amigos/yii2-usuario/src/User/Controller/RegistrationController.php:108
+2018-07-03 22:21:27 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = [
+    '_csrf' => 'bqlX9rgD8mktJM6KjemyUbo4IbWx8cLSKe2pGroI9h0L02aS6UDCXGsW-eD1vvgVjFlZx_i2gLBltch9g2GXRw=='
+    'RegistrationForm' => [
+        'email' => 'walter@yahoo.com'
+        'username' => 'admin'
+        'password' => '123456'
+    ]
+]
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'l4e9n44i7pps3p107dct2rtqba'
+    '_csrf' => 'afc98540e638f10949c93a38feae9b592e7ab9984da196b75a7eea542f3d36f1a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"ez1dQC05F27jxWJD6axrIGBbLXag9iaZ\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/hosanna/projects/testing/smartCityBus/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '46588'
+    'SERVER_SOFTWARE' => 'PHP 7.2.5-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/user/registration/register'
+    'REQUEST_METHOD' => 'POST'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/hosanna/projects/testing/smartCityBus/web/index.php'
+    'PATH_INFO' => '/user/registration/register'
+    'PHP_SELF' => '/index.php/user/registration/register'
+    'HTTP_HOST' => '127.0.0.1:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://127.0.0.1:8080/user/registration/register'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'HTTP_CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '220'
+    'HTTP_CONTENT_LENGTH' => '220'
+    'HTTP_COOKIE' => 'PHPSESSID=l4e9n44i7pps3p107dct2rtqba; _csrf=afc98540e638f10949c93a38feae9b592e7ab9984da196b75a7eea542f3d36f1a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22ez1dQC05F27jxWJD6axrIGBbLXag9iaZ%22%3B%7D'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1530656487.1025
+    'REQUEST_TIME' => 1530656487
+]
+2018-07-03 22:21:44 [127.0.0.1][-][-][error][usuario] Getting unknown property: Da\User\Model\User::auth_tf_key
+    in /home/hosanna/projects/testing/smartCityBus/vendor/2amigos/yii2-usuario/src/User/Service/UserRegisterService.php:91
+    in /home/hosanna/projects/testing/smartCityBus/vendor/2amigos/yii2-usuario/src/User/Controller/RegistrationController.php:108
+2018-07-03 22:21:44 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = [
+    '_csrf' => 'bqlX9rgD8mktJM6KjemyUbo4IbWx8cLSKe2pGroI9h0L02aS6UDCXGsW-eD1vvgVjFlZx_i2gLBltch9g2GXRw=='
+    'RegistrationForm' => [
+        'email' => 'walter@yahoo.com'
+        'username' => 'admin'
+        'password' => '123456'
+    ]
+]
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'l4e9n44i7pps3p107dct2rtqba'
+    '_csrf' => 'afc98540e638f10949c93a38feae9b592e7ab9984da196b75a7eea542f3d36f1a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"ez1dQC05F27jxWJD6axrIGBbLXag9iaZ\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/hosanna/projects/testing/smartCityBus/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '46592'
+    'SERVER_SOFTWARE' => 'PHP 7.2.5-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/user/registration/register'
+    'REQUEST_METHOD' => 'POST'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/hosanna/projects/testing/smartCityBus/web/index.php'
+    'PATH_INFO' => '/user/registration/register'
+    'PHP_SELF' => '/index.php/user/registration/register'
+    'HTTP_HOST' => '127.0.0.1:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://127.0.0.1:8080/user/registration/register'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'HTTP_CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '220'
+    'HTTP_CONTENT_LENGTH' => '220'
+    'HTTP_COOKIE' => 'PHPSESSID=l4e9n44i7pps3p107dct2rtqba; _csrf=afc98540e638f10949c93a38feae9b592e7ab9984da196b75a7eea542f3d36f1a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22ez1dQC05F27jxWJD6axrIGBbLXag9iaZ%22%3B%7D'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1530656504.1844
+    'REQUEST_TIME' => 1530656504
+]
+2018-07-03 23:47:40 [127.0.0.1][-][dlbnhrvihn0lc9sspjokjmhk25][error][yii\web\HttpException:403] yii\web\ForbiddenHttpException: Login Required in /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/User.php:454
+Stack trace:
+#0 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/filters/AccessControl.php(156): yii\web\User->loginRequired()
+#1 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/filters/AccessControl.php(140): yii\filters\AccessControl->denyAccess(Object(yii\web\User))
+#2 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/ActionFilter.php(77): yii\filters\AccessControl->beforeAction(Object(yii\base\InlineAction))
+#3 [internal function]: yii\base\ActionFilter->beforeFilter(Object(yii\base\ActionEvent))
+#4 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Component.php(627): call_user_func(Array, Object(yii\base\ActionEvent))
+#5 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(274): yii\base\Component->trigger('beforeAction', Object(yii\base\ActionEvent))
+#6 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Controller.php(164): yii\base\Controller->beforeAction(Object(yii\base\InlineAction))
+#7 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(155): yii\web\Controller->beforeAction(Object(yii\base\InlineAction))
+#8 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('create', Array)
+#9 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('user/role/creat...', Array)
+#10 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#11 /home/hosanna/projects/testing/smartCityBus/web/index.php(12): yii\base\Application->run()
+#12 {main}
+2018-07-03 23:47:40 [127.0.0.1][-][dlbnhrvihn0lc9sspjokjmhk25][info][application] $_GET = []
+
+$_POST = [
+    '_csrf' => 'zzZvU6sSUmJli3QFukCCk6nbQDzWnoNA9sOm9iuTQyq5RlZmziEAMiLTHmDgMMzyyr0ZVYbk0jWz8cSYHNY2RA=='
+    'Role' => [
+        'name' => ''
+        'description' => ''
+        'rule' => ''
+        'children' => ''
+    ]
+    'ajax' => 'w0'
+]
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'dlbnhrvihn0lc9sspjokjmhk25'
+    '_csrf' => '929f94adde0a5a7617e7b8282b25c7e706b830c7649761f9290dfd1aee18df4ea:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"vp95e3RPGXjeZpNacfYiPzQuE2bn7Eun\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/hosanna/projects/testing/smartCityBus/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '49606'
+    'SERVER_SOFTWARE' => 'PHP 7.2.5-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/user/role/create'
+    'REQUEST_METHOD' => 'POST'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/hosanna/projects/testing/smartCityBus/web/index.php'
+    'PATH_INFO' => '/user/role/create'
+    'PHP_SELF' => '/index.php/user/role/create'
+    'HTTP_HOST' => '127.0.0.1:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0'
+    'HTTP_ACCEPT' => 'application/json, text/javascript, */*; q=0.01'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://127.0.0.1:8080/user/role/create'
+    'HTTP_X_CSRF_TOKEN' => 'zzZvU6sSUmJli3QFukCCk6nbQDzWnoNA9sOm9iuTQyq5RlZmziEAMiLTHmDgMMzyyr0ZVYbk0jWz8cSYHNY2RA=='
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded; charset=UTF-8'
+    'HTTP_CONTENT_TYPE' => 'application/x-www-form-urlencoded; charset=UTF-8'
+    'HTTP_X_REQUESTED_WITH' => 'XMLHttpRequest'
+    'CONTENT_LENGTH' => '181'
+    'HTTP_CONTENT_LENGTH' => '181'
+    'HTTP_COOKIE' => 'PHPSESSID=dlbnhrvihn0lc9sspjokjmhk25; _csrf=929f94adde0a5a7617e7b8282b25c7e706b830c7649761f9290dfd1aee18df4ea%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22vp95e3RPGXjeZpNacfYiPzQuE2bn7Eun%22%3B%7D'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'REQUEST_TIME_FLOAT' => 1530661660.6239
+    'REQUEST_TIME' => 1530661660
+]
+2018-07-04 00:23:18 [127.0.0.1][-][dlbnhrvihn0lc9sspjokjmhk25][error][Error] Error: Class 'app\models\User' not found in /home/hosanna/projects/testing/smartCityBus/models/Agent.php:46
+Stack trace:
+#0 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Model.php(454): app\models\Agent->rules()
+#1 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Model.php(420): yii\base\Model->createValidators()
+#2 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Model.php(189): yii\base\Model->getValidators()
+#3 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Model.php(785): yii\base\Model->scenarios()
+#4 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2-gii/src/generators/crud/default/views/_form.php(11): yii\base\Model->safeAttributes()
+#5 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(336): require('/home/hosanna/p...')
+#6 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(254): yii\base\View->renderPhpFile('/home/hosanna/p...', Array)
+#7 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2-gii/src/Generator.php(317): yii\base\View->renderFile('/home/hosanna/p...', Array, Object(yii\gii\generators\crud\Generator))
+#8 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2-gii/src/generators/crud/Generator.php(183): yii\gii\Generator->render('views/_form.php')
+#9 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2-gii/src/controllers/DefaultController.php(61): yii\gii\generators\crud\Generator->generate()
+#10 [internal function]: yii\gii\controllers\DefaultController->actionView('crud')
+#11 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#12 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#13 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('view', Array)
+#14 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('gii/default/vie...', Array)
+#15 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#16 /home/hosanna/projects/testing/smartCityBus/web/index.php(12): yii\base\Application->run()
+#17 {main}
+2018-07-04 00:23:17 [127.0.0.1][-][dlbnhrvihn0lc9sspjokjmhk25][info][application] $_GET = [
+    'id' => 'crud'
+]
+
+$_POST = [
+    '_csrf' => 'y1nqB4bPPNNp_CYNLMZQ2Zvo7JXPd5kslWoGM8gZgcW9KdMy4_xugy6kTGh2th64-I61_J8NyFnQWGRd_1z0qw=='
+    'Generator' => [
+        'modelClass' => 'app\\models\\Agent'
+        'searchModelClass' => 'app\\models\\AgentSearch'
+        'controllerClass' => 'app\\controllers\\AgentController'
+        'viewPath' => '@app\\views\\agent'
+        'baseControllerClass' => 'yii\\web\\Controller'
+        'indexWidgetType' => 'grid'
+        'enableI18N' => '0'
+        'enablePjax' => '1'
+        'messageCategory' => 'app'
+        'template' => 'default'
+    ]
+    'preview' => ''
+]
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'dlbnhrvihn0lc9sspjokjmhk25'
+    '_csrf' => '929f94adde0a5a7617e7b8282b25c7e706b830c7649761f9290dfd1aee18df4ea:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"vp95e3RPGXjeZpNacfYiPzQuE2bn7Eun\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/hosanna/projects/testing/smartCityBus/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '50914'
+    'SERVER_SOFTWARE' => 'PHP 7.2.5-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/gii/crud'
+    'REQUEST_METHOD' => 'POST'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/hosanna/projects/testing/smartCityBus/web/index.php'
+    'PATH_INFO' => '/gii/crud'
+    'PHP_SELF' => '/index.php/gii/crud'
+    'HTTP_HOST' => '127.0.0.1:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://127.0.0.1:8080/gii/crud'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'HTTP_CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '572'
+    'HTTP_CONTENT_LENGTH' => '572'
+    'HTTP_COOKIE' => 'PHPSESSID=dlbnhrvihn0lc9sspjokjmhk25; _csrf=929f94adde0a5a7617e7b8282b25c7e706b830c7649761f9290dfd1aee18df4ea%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22vp95e3RPGXjeZpNacfYiPzQuE2bn7Eun%22%3B%7D'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1530663797.9798
+    'REQUEST_TIME' => 1530663797
+]
+2018-07-04 00:25:14 [127.0.0.1][-][dlbnhrvihn0lc9sspjokjmhk25][error][Error] Error: Class 'app\models\Addresses' not found in /home/hosanna/projects/testing/smartCityBus/models/Agent.php:47
+Stack trace:
+#0 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Model.php(454): app\models\Agent->rules()
+#1 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Model.php(420): yii\base\Model->createValidators()
+#2 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Model.php(189): yii\base\Model->getValidators()
+#3 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Model.php(785): yii\base\Model->scenarios()
+#4 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2-gii/src/generators/crud/default/views/_form.php(11): yii\base\Model->safeAttributes()
+#5 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(336): require('/home/hosanna/p...')
+#6 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(254): yii\base\View->renderPhpFile('/home/hosanna/p...', Array)
+#7 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2-gii/src/Generator.php(317): yii\base\View->renderFile('/home/hosanna/p...', Array, Object(yii\gii\generators\crud\Generator))
+#8 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2-gii/src/generators/crud/Generator.php(183): yii\gii\Generator->render('views/_form.php')
+#9 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2-gii/src/controllers/DefaultController.php(61): yii\gii\generators\crud\Generator->generate()
+#10 [internal function]: yii\gii\controllers\DefaultController->actionView('crud')
+#11 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#12 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#13 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('view', Array)
+#14 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('gii/default/vie...', Array)
+#15 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#16 /home/hosanna/projects/testing/smartCityBus/web/index.php(12): yii\base\Application->run()
+#17 {main}
+2018-07-04 00:25:14 [127.0.0.1][-][dlbnhrvihn0lc9sspjokjmhk25][info][application] $_GET = [
+    'id' => 'crud'
+]
+
+$_POST = [
+    '_csrf' => 'y1nqB4bPPNNp_CYNLMZQ2Zvo7JXPd5kslWoGM8gZgcW9KdMy4_xugy6kTGh2th64-I61_J8NyFnQWGRd_1z0qw=='
+    'Generator' => [
+        'modelClass' => 'app\\models\\Agent'
+        'searchModelClass' => 'app\\models\\AgentSearch'
+        'controllerClass' => 'app\\controllers\\AgentController'
+        'viewPath' => '@app\\views\\agent'
+        'baseControllerClass' => 'yii\\web\\Controller'
+        'indexWidgetType' => 'grid'
+        'enableI18N' => '0'
+        'enablePjax' => '1'
+        'messageCategory' => 'app'
+        'template' => 'default'
+    ]
+    'preview' => ''
+]
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'dlbnhrvihn0lc9sspjokjmhk25'
+    '_csrf' => '929f94adde0a5a7617e7b8282b25c7e706b830c7649761f9290dfd1aee18df4ea:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"vp95e3RPGXjeZpNacfYiPzQuE2bn7Eun\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/hosanna/projects/testing/smartCityBus/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '50964'
+    'SERVER_SOFTWARE' => 'PHP 7.2.5-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/gii/crud'
+    'REQUEST_METHOD' => 'POST'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/hosanna/projects/testing/smartCityBus/web/index.php'
+    'PATH_INFO' => '/gii/crud'
+    'PHP_SELF' => '/index.php/gii/crud'
+    'HTTP_HOST' => '127.0.0.1:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://127.0.0.1:8080/gii/crud'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'HTTP_CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '572'
+    'HTTP_CONTENT_LENGTH' => '572'
+    'HTTP_COOKIE' => 'PHPSESSID=dlbnhrvihn0lc9sspjokjmhk25; _csrf=929f94adde0a5a7617e7b8282b25c7e706b830c7649761f9290dfd1aee18df4ea%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22vp95e3RPGXjeZpNacfYiPzQuE2bn7Eun%22%3B%7D'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1530663914.7534
+    'REQUEST_TIME' => 1530663914
+]
+2018-07-04 00:26:22 [127.0.0.1][-][dlbnhrvihn0lc9sspjokjmhk25][error][Error] Error: Class 'app\models\Addresses' not found in /home/hosanna/projects/testing/smartCityBus/models/Agent.php:47
+Stack trace:
+#0 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Model.php(454): app\models\Agent->rules()
+#1 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Model.php(420): yii\base\Model->createValidators()
+#2 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Model.php(189): yii\base\Model->getValidators()
+#3 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Model.php(785): yii\base\Model->scenarios()
+#4 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2-gii/src/generators/crud/default/views/_form.php(11): yii\base\Model->safeAttributes()
+#5 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(336): require('/home/hosanna/p...')
+#6 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(254): yii\base\View->renderPhpFile('/home/hosanna/p...', Array)
+#7 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2-gii/src/Generator.php(317): yii\base\View->renderFile('/home/hosanna/p...', Array, Object(yii\gii\generators\crud\Generator))
+#8 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2-gii/src/generators/crud/Generator.php(183): yii\gii\Generator->render('views/_form.php')
+#9 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2-gii/src/controllers/DefaultController.php(61): yii\gii\generators\crud\Generator->generate()
+#10 [internal function]: yii\gii\controllers\DefaultController->actionView('crud')
+#11 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#12 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#13 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('view', Array)
+#14 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('gii/default/vie...', Array)
+#15 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#16 /home/hosanna/projects/testing/smartCityBus/web/index.php(12): yii\base\Application->run()
+#17 {main}
+2018-07-04 00:26:22 [127.0.0.1][-][dlbnhrvihn0lc9sspjokjmhk25][info][application] $_GET = [
+    'id' => 'crud'
+]
+
+$_POST = [
+    '_csrf' => 'y1nqB4bPPNNp_CYNLMZQ2Zvo7JXPd5kslWoGM8gZgcW9KdMy4_xugy6kTGh2th64-I61_J8NyFnQWGRd_1z0qw=='
+    'Generator' => [
+        'modelClass' => 'app\\models\\Agent'
+        'searchModelClass' => 'app\\models\\AgentSearch'
+        'controllerClass' => 'app\\controllers\\AgentController'
+        'viewPath' => '@app\\views\\agent'
+        'baseControllerClass' => 'yii\\web\\Controller'
+        'indexWidgetType' => 'grid'
+        'enableI18N' => '0'
+        'enablePjax' => '1'
+        'messageCategory' => 'app'
+        'template' => 'default'
+    ]
+    'preview' => ''
+]
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'dlbnhrvihn0lc9sspjokjmhk25'
+    '_csrf' => '929f94adde0a5a7617e7b8282b25c7e706b830c7649761f9290dfd1aee18df4ea:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"vp95e3RPGXjeZpNacfYiPzQuE2bn7Eun\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/hosanna/projects/testing/smartCityBus/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '51030'
+    'SERVER_SOFTWARE' => 'PHP 7.2.5-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/gii/crud'
+    'REQUEST_METHOD' => 'POST'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/hosanna/projects/testing/smartCityBus/web/index.php'
+    'PATH_INFO' => '/gii/crud'
+    'PHP_SELF' => '/index.php/gii/crud'
+    'HTTP_HOST' => '127.0.0.1:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://127.0.0.1:8080/gii/crud'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'HTTP_CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '572'
+    'HTTP_CONTENT_LENGTH' => '572'
+    'HTTP_COOKIE' => 'PHPSESSID=dlbnhrvihn0lc9sspjokjmhk25; _csrf=929f94adde0a5a7617e7b8282b25c7e706b830c7649761f9290dfd1aee18df4ea%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22vp95e3RPGXjeZpNacfYiPzQuE2bn7Eun%22%3B%7D'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1530663982.2095
+    'REQUEST_TIME' => 1530663982
+]
+2018-07-04 00:26:27 [127.0.0.1][-][dlbnhrvihn0lc9sspjokjmhk25][error][Error] Error: Class 'app\models\Addresses' not found in /home/hosanna/projects/testing/smartCityBus/models/Agent.php:47
+Stack trace:
+#0 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Model.php(454): app\models\Agent->rules()
+#1 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Model.php(420): yii\base\Model->createValidators()
+#2 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Model.php(189): yii\base\Model->getValidators()
+#3 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Model.php(785): yii\base\Model->scenarios()
+#4 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2-gii/src/generators/crud/default/views/_form.php(11): yii\base\Model->safeAttributes()
+#5 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(336): require('/home/hosanna/p...')
+#6 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(254): yii\base\View->renderPhpFile('/home/hosanna/p...', Array)
+#7 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2-gii/src/Generator.php(317): yii\base\View->renderFile('/home/hosanna/p...', Array, Object(yii\gii\generators\crud\Generator))
+#8 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2-gii/src/generators/crud/Generator.php(183): yii\gii\Generator->render('views/_form.php')
+#9 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2-gii/src/controllers/DefaultController.php(61): yii\gii\generators\crud\Generator->generate()
+#10 [internal function]: yii\gii\controllers\DefaultController->actionView('crud')
+#11 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#12 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#13 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('view', Array)
+#14 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('gii/default/vie...', Array)
+#15 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#16 /home/hosanna/projects/testing/smartCityBus/web/index.php(12): yii\base\Application->run()
+#17 {main}
+2018-07-04 00:26:27 [127.0.0.1][-][dlbnhrvihn0lc9sspjokjmhk25][info][application] $_GET = [
+    'id' => 'crud'
+]
+
+$_POST = [
+    '_csrf' => 'y1nqB4bPPNNp_CYNLMZQ2Zvo7JXPd5kslWoGM8gZgcW9KdMy4_xugy6kTGh2th64-I61_J8NyFnQWGRd_1z0qw=='
+    'Generator' => [
+        'modelClass' => 'app\\models\\Agent'
+        'searchModelClass' => 'app\\models\\AgentSearch'
+        'controllerClass' => 'app\\controllers\\AgentController'
+        'viewPath' => '@app\\views\\agent'
+        'baseControllerClass' => 'yii\\web\\Controller'
+        'indexWidgetType' => 'grid'
+        'enableI18N' => '0'
+        'enablePjax' => '1'
+        'messageCategory' => 'app'
+        'template' => 'default'
+    ]
+    'preview' => ''
+]
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'dlbnhrvihn0lc9sspjokjmhk25'
+    '_csrf' => '929f94adde0a5a7617e7b8282b25c7e706b830c7649761f9290dfd1aee18df4ea:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"vp95e3RPGXjeZpNacfYiPzQuE2bn7Eun\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/hosanna/projects/testing/smartCityBus/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '51034'
+    'SERVER_SOFTWARE' => 'PHP 7.2.5-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/gii/crud'
+    'REQUEST_METHOD' => 'POST'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/hosanna/projects/testing/smartCityBus/web/index.php'
+    'PATH_INFO' => '/gii/crud'
+    'PHP_SELF' => '/index.php/gii/crud'
+    'HTTP_HOST' => '127.0.0.1:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://127.0.0.1:8080/gii/crud'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'HTTP_CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '572'
+    'HTTP_CONTENT_LENGTH' => '572'
+    'HTTP_COOKIE' => 'PHPSESSID=dlbnhrvihn0lc9sspjokjmhk25; _csrf=929f94adde0a5a7617e7b8282b25c7e706b830c7649761f9290dfd1aee18df4ea%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22vp95e3RPGXjeZpNacfYiPzQuE2bn7Eun%22%3B%7D'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1530663987.524
+    'REQUEST_TIME' => 1530663987
+]
+2018-07-04 00:26:39 [127.0.0.1][-][dlbnhrvihn0lc9sspjokjmhk25][error][Error] Error: Class 'app\models\Addresses' not found in /home/hosanna/projects/testing/smartCityBus/models/Agent.php:47
+Stack trace:
+#0 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Model.php(454): app\models\Agent->rules()
+#1 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Model.php(420): yii\base\Model->createValidators()
+#2 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Model.php(189): yii\base\Model->getValidators()
+#3 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Model.php(785): yii\base\Model->scenarios()
+#4 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2-gii/src/generators/crud/default/views/_form.php(11): yii\base\Model->safeAttributes()
+#5 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(336): require('/home/hosanna/p...')
+#6 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(254): yii\base\View->renderPhpFile('/home/hosanna/p...', Array)
+#7 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2-gii/src/Generator.php(317): yii\base\View->renderFile('/home/hosanna/p...', Array, Object(yii\gii\generators\crud\Generator))
+#8 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2-gii/src/generators/crud/Generator.php(183): yii\gii\Generator->render('views/_form.php')
+#9 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2-gii/src/controllers/DefaultController.php(61): yii\gii\generators\crud\Generator->generate()
+#10 [internal function]: yii\gii\controllers\DefaultController->actionView('crud')
+#11 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#12 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#13 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('view', Array)
+#14 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('gii/default/vie...', Array)
+#15 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#16 /home/hosanna/projects/testing/smartCityBus/web/index.php(12): yii\base\Application->run()
+#17 {main}
+2018-07-04 00:26:39 [127.0.0.1][-][dlbnhrvihn0lc9sspjokjmhk25][info][application] $_GET = [
+    'id' => 'crud'
+]
+
+$_POST = [
+    '_csrf' => 'y1nqB4bPPNNp_CYNLMZQ2Zvo7JXPd5kslWoGM8gZgcW9KdMy4_xugy6kTGh2th64-I61_J8NyFnQWGRd_1z0qw=='
+    'Generator' => [
+        'modelClass' => 'app\\models\\Agent'
+        'searchModelClass' => 'app\\models\\AgentSearch'
+        'controllerClass' => 'app\\controllers\\AgentController'
+        'viewPath' => '@app\\views\\agent'
+        'baseControllerClass' => 'yii\\web\\Controller'
+        'indexWidgetType' => 'grid'
+        'enableI18N' => '0'
+        'enablePjax' => '1'
+        'messageCategory' => 'app'
+        'template' => 'default'
+    ]
+    'preview' => ''
+]
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'dlbnhrvihn0lc9sspjokjmhk25'
+    '_csrf' => '929f94adde0a5a7617e7b8282b25c7e706b830c7649761f9290dfd1aee18df4ea:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"vp95e3RPGXjeZpNacfYiPzQuE2bn7Eun\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/hosanna/projects/testing/smartCityBus/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '51044'
+    'SERVER_SOFTWARE' => 'PHP 7.2.5-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/gii/crud'
+    'REQUEST_METHOD' => 'POST'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/hosanna/projects/testing/smartCityBus/web/index.php'
+    'PATH_INFO' => '/gii/crud'
+    'PHP_SELF' => '/index.php/gii/crud'
+    'HTTP_HOST' => '127.0.0.1:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://127.0.0.1:8080/gii/crud'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'HTTP_CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '572'
+    'HTTP_CONTENT_LENGTH' => '572'
+    'HTTP_COOKIE' => 'PHPSESSID=dlbnhrvihn0lc9sspjokjmhk25; _csrf=929f94adde0a5a7617e7b8282b25c7e706b830c7649761f9290dfd1aee18df4ea%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22vp95e3RPGXjeZpNacfYiPzQuE2bn7Eun%22%3B%7D'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1530663999.6997
+    'REQUEST_TIME' => 1530663999
+]
+2018-07-04 00:28:54 [127.0.0.1][-][dlbnhrvihn0lc9sspjokjmhk25][error][Error] Error: Class 'app\models\Addresses' not found in /home/hosanna/projects/testing/smartCityBus/models/Agent.php:47
+Stack trace:
+#0 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Model.php(454): app\models\Agent->rules()
+#1 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Model.php(420): yii\base\Model->createValidators()
+#2 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Model.php(189): yii\base\Model->getValidators()
+#3 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Model.php(785): yii\base\Model->scenarios()
+#4 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2-gii/src/generators/crud/default/views/_form.php(11): yii\base\Model->safeAttributes()
+#5 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(336): require('/home/hosanna/p...')
+#6 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(254): yii\base\View->renderPhpFile('/home/hosanna/p...', Array)
+#7 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2-gii/src/Generator.php(317): yii\base\View->renderFile('/home/hosanna/p...', Array, Object(yii\gii\generators\crud\Generator))
+#8 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2-gii/src/generators/crud/Generator.php(183): yii\gii\Generator->render('views/_form.php')
+#9 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2-gii/src/controllers/DefaultController.php(61): yii\gii\generators\crud\Generator->generate()
+#10 [internal function]: yii\gii\controllers\DefaultController->actionView('crud')
+#11 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#12 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#13 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('view', Array)
+#14 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('gii/default/vie...', Array)
+#15 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#16 /home/hosanna/projects/testing/smartCityBus/web/index.php(12): yii\base\Application->run()
+#17 {main}
+2018-07-04 00:28:54 [127.0.0.1][-][dlbnhrvihn0lc9sspjokjmhk25][info][application] $_GET = [
+    'id' => 'crud'
+]
+
+$_POST = [
+    '_csrf' => 'G83CNiimzFtzH5PmvIB9pDS_f8TqdFfbEVdOeZoquy5tvfsDTZWeCzRH-YPm8DPFV9kmrboOBq5UZSwXrW_OQA=='
+    'Generator' => [
+        'modelClass' => 'app\\models\\Agent'
+        'searchModelClass' => 'app\\models\\AgentSearch'
+        'controllerClass' => 'app\\controllers\\AgentController'
+        'viewPath' => '@app\\views\\agent'
+        'baseControllerClass' => 'yii\\web\\Controller'
+        'indexWidgetType' => 'grid'
+        'enableI18N' => '0'
+        'enablePjax' => '1'
+        'messageCategory' => 'app'
+        'template' => 'default'
+    ]
+    'preview' => ''
+]
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'dlbnhrvihn0lc9sspjokjmhk25'
+    '_csrf' => '929f94adde0a5a7617e7b8282b25c7e706b830c7649761f9290dfd1aee18df4ea:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"vp95e3RPGXjeZpNacfYiPzQuE2bn7Eun\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/hosanna/projects/testing/smartCityBus/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '51124'
+    'SERVER_SOFTWARE' => 'PHP 7.2.5-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/gii/crud'
+    'REQUEST_METHOD' => 'POST'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/hosanna/projects/testing/smartCityBus/web/index.php'
+    'PATH_INFO' => '/gii/crud'
+    'PHP_SELF' => '/index.php/gii/crud'
+    'HTTP_HOST' => '127.0.0.1:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://127.0.0.1:8080/gii/crud'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'HTTP_CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '572'
+    'HTTP_CONTENT_LENGTH' => '572'
+    'HTTP_COOKIE' => 'PHPSESSID=dlbnhrvihn0lc9sspjokjmhk25; _csrf=929f94adde0a5a7617e7b8282b25c7e706b830c7649761f9290dfd1aee18df4ea%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22vp95e3RPGXjeZpNacfYiPzQuE2bn7Eun%22%3B%7D'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1530664134.9228
+    'REQUEST_TIME' => 1530664134
+]
+2018-07-04 00:30:02 [127.0.0.1][-][dlbnhrvihn0lc9sspjokjmhk25][error][Error] Error: Class 'app\models\Addresses' not found in /home/hosanna/projects/testing/smartCityBus/models/Agent.php:47
+Stack trace:
+#0 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Model.php(454): app\models\Agent->rules()
+#1 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Model.php(420): yii\base\Model->createValidators()
+#2 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Model.php(189): yii\base\Model->getValidators()
+#3 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Model.php(785): yii\base\Model->scenarios()
+#4 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2-gii/src/generators/crud/default/views/_form.php(11): yii\base\Model->safeAttributes()
+#5 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(336): require('/home/hosanna/p...')
+#6 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(254): yii\base\View->renderPhpFile('/home/hosanna/p...', Array)
+#7 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2-gii/src/Generator.php(317): yii\base\View->renderFile('/home/hosanna/p...', Array, Object(yii\gii\generators\crud\Generator))
+#8 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2-gii/src/generators/crud/Generator.php(183): yii\gii\Generator->render('views/_form.php')
+#9 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2-gii/src/controllers/DefaultController.php(61): yii\gii\generators\crud\Generator->generate()
+#10 [internal function]: yii\gii\controllers\DefaultController->actionView('crud')
+#11 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#12 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#13 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('view', Array)
+#14 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('gii/default/vie...', Array)
+#15 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#16 /home/hosanna/projects/testing/smartCityBus/web/index.php(12): yii\base\Application->run()
+#17 {main}
+2018-07-04 00:30:02 [127.0.0.1][-][dlbnhrvihn0lc9sspjokjmhk25][info][application] $_GET = [
+    'id' => 'crud'
+]
+
+$_POST = [
+    '_csrf' => 'G83CNiimzFtzH5PmvIB9pDS_f8TqdFfbEVdOeZoquy5tvfsDTZWeCzRH-YPm8DPFV9kmrboOBq5UZSwXrW_OQA=='
+    'Generator' => [
+        'modelClass' => 'app\\models\\Agent'
+        'searchModelClass' => 'app\\models\\AgentSearch'
+        'controllerClass' => 'app\\controllers\\AgentController'
+        'viewPath' => '@app\\views\\agent'
+        'baseControllerClass' => 'yii\\web\\Controller'
+        'indexWidgetType' => 'grid'
+        'enableI18N' => '0'
+        'enablePjax' => '1'
+        'messageCategory' => 'app'
+        'template' => 'default'
+    ]
+    'preview' => ''
+]
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'dlbnhrvihn0lc9sspjokjmhk25'
+    '_csrf' => '929f94adde0a5a7617e7b8282b25c7e706b830c7649761f9290dfd1aee18df4ea:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"vp95e3RPGXjeZpNacfYiPzQuE2bn7Eun\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/hosanna/projects/testing/smartCityBus/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '51150'
+    'SERVER_SOFTWARE' => 'PHP 7.2.5-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/gii/crud'
+    'REQUEST_METHOD' => 'POST'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/hosanna/projects/testing/smartCityBus/web/index.php'
+    'PATH_INFO' => '/gii/crud'
+    'PHP_SELF' => '/index.php/gii/crud'
+    'HTTP_HOST' => '127.0.0.1:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://127.0.0.1:8080/gii/crud'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'HTTP_CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '572'
+    'HTTP_CONTENT_LENGTH' => '572'
+    'HTTP_COOKIE' => 'PHPSESSID=dlbnhrvihn0lc9sspjokjmhk25; _csrf=929f94adde0a5a7617e7b8282b25c7e706b830c7649761f9290dfd1aee18df4ea%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22vp95e3RPGXjeZpNacfYiPzQuE2bn7Eun%22%3B%7D'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1530664202.7431
+    'REQUEST_TIME' => 1530664202
+]
+2018-07-04 00:33:23 [127.0.0.1][-][dlbnhrvihn0lc9sspjokjmhk25][error][Error] Error: Class 'app\models\Routes' not found in /home/hosanna/projects/testing/smartCityBus/models/Bus.php:49
+Stack trace:
+#0 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Model.php(454): app\models\Bus->rules()
+#1 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Model.php(420): yii\base\Model->createValidators()
+#2 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Model.php(189): yii\base\Model->getValidators()
+#3 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Model.php(785): yii\base\Model->scenarios()
+#4 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2-gii/src/generators/crud/default/views/_form.php(11): yii\base\Model->safeAttributes()
+#5 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(336): require('/home/hosanna/p...')
+#6 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(254): yii\base\View->renderPhpFile('/home/hosanna/p...', Array)
+#7 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2-gii/src/Generator.php(317): yii\base\View->renderFile('/home/hosanna/p...', Array, Object(yii\gii\generators\crud\Generator))
+#8 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2-gii/src/generators/crud/Generator.php(183): yii\gii\Generator->render('views/_form.php')
+#9 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2-gii/src/controllers/DefaultController.php(61): yii\gii\generators\crud\Generator->generate()
+#10 [internal function]: yii\gii\controllers\DefaultController->actionView('crud')
+#11 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#12 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#13 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('view', Array)
+#14 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('gii/default/vie...', Array)
+#15 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#16 /home/hosanna/projects/testing/smartCityBus/web/index.php(12): yii\base\Application->run()
+#17 {main}
+2018-07-04 00:33:23 [127.0.0.1][-][dlbnhrvihn0lc9sspjokjmhk25][info][application] $_GET = [
+    'id' => 'crud'
+]
+
+$_POST = [
+    '_csrf' => 'w2JZp0Jb4bVJY05egS4TP8wjxjNSN3k0AhPszFmx-w61EmCSJ2iz5Q47JDvbXl1er0WfWgJNKEFHIY6ibvSOYA=='
+    'Generator' => [
+        'modelClass' => 'app\\models\\Bus'
+        'searchModelClass' => 'app\\models\\BusSearch'
+        'controllerClass' => 'app\\controllers\\BusController'
+        'viewPath' => '@app\\views\\bus'
+        'baseControllerClass' => 'yii\\web\\Controller'
+        'indexWidgetType' => 'grid'
+        'enableI18N' => '0'
+        'enablePjax' => '1'
+        'messageCategory' => 'app'
+        'template' => 'default'
+    ]
+    'preview' => ''
+]
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'dlbnhrvihn0lc9sspjokjmhk25'
+    '_csrf' => '929f94adde0a5a7617e7b8282b25c7e706b830c7649761f9290dfd1aee18df4ea:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"vp95e3RPGXjeZpNacfYiPzQuE2bn7Eun\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/hosanna/projects/testing/smartCityBus/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '51308'
+    'SERVER_SOFTWARE' => 'PHP 7.2.5-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/gii/crud'
+    'REQUEST_METHOD' => 'POST'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/hosanna/projects/testing/smartCityBus/web/index.php'
+    'PATH_INFO' => '/gii/crud'
+    'PHP_SELF' => '/index.php/gii/crud'
+    'HTTP_HOST' => '127.0.0.1:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://127.0.0.1:8080/gii/crud'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'HTTP_CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '564'
+    'HTTP_CONTENT_LENGTH' => '564'
+    'HTTP_COOKIE' => 'PHPSESSID=dlbnhrvihn0lc9sspjokjmhk25; _csrf=929f94adde0a5a7617e7b8282b25c7e706b830c7649761f9290dfd1aee18df4ea%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22vp95e3RPGXjeZpNacfYiPzQuE2bn7Eun%22%3B%7D'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1530664403.8338
+    'REQUEST_TIME' => 1530664403
+]
+2018-07-04 00:34:16 [127.0.0.1][-][dlbnhrvihn0lc9sspjokjmhk25][error][Error] Error: Class 'app\models\Scanners' not found in /home/hosanna/projects/testing/smartCityBus/models/Bus.php:53
+Stack trace:
+#0 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Model.php(454): app\models\Bus->rules()
+#1 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Model.php(420): yii\base\Model->createValidators()
+#2 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Model.php(189): yii\base\Model->getValidators()
+#3 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Model.php(785): yii\base\Model->scenarios()
+#4 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2-gii/src/generators/crud/default/views/_form.php(11): yii\base\Model->safeAttributes()
+#5 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(336): require('/home/hosanna/p...')
+#6 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(254): yii\base\View->renderPhpFile('/home/hosanna/p...', Array)
+#7 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2-gii/src/Generator.php(317): yii\base\View->renderFile('/home/hosanna/p...', Array, Object(yii\gii\generators\crud\Generator))
+#8 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2-gii/src/generators/crud/Generator.php(183): yii\gii\Generator->render('views/_form.php')
+#9 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2-gii/src/controllers/DefaultController.php(61): yii\gii\generators\crud\Generator->generate()
+#10 [internal function]: yii\gii\controllers\DefaultController->actionView('crud')
+#11 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#12 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#13 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('view', Array)
+#14 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('gii/default/vie...', Array)
+#15 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#16 /home/hosanna/projects/testing/smartCityBus/web/index.php(12): yii\base\Application->run()
+#17 {main}
+2018-07-04 00:34:16 [127.0.0.1][-][dlbnhrvihn0lc9sspjokjmhk25][info][application] $_GET = [
+    'id' => 'crud'
+]
+
+$_POST = [
+    '_csrf' => 'w2JZp0Jb4bVJY05egS4TP8wjxjNSN3k0AhPszFmx-w61EmCSJ2iz5Q47JDvbXl1er0WfWgJNKEFHIY6ibvSOYA=='
+    'Generator' => [
+        'modelClass' => 'app\\models\\Bus'
+        'searchModelClass' => 'app\\models\\BusSearch'
+        'controllerClass' => 'app\\controllers\\BusController'
+        'viewPath' => '@app\\views\\bus'
+        'baseControllerClass' => 'yii\\web\\Controller'
+        'indexWidgetType' => 'grid'
+        'enableI18N' => '0'
+        'enablePjax' => '1'
+        'messageCategory' => 'app'
+        'template' => 'default'
+    ]
+    'preview' => ''
+]
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'dlbnhrvihn0lc9sspjokjmhk25'
+    '_csrf' => '929f94adde0a5a7617e7b8282b25c7e706b830c7649761f9290dfd1aee18df4ea:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"vp95e3RPGXjeZpNacfYiPzQuE2bn7Eun\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/hosanna/projects/testing/smartCityBus/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '51332'
+    'SERVER_SOFTWARE' => 'PHP 7.2.5-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/gii/crud'
+    'REQUEST_METHOD' => 'POST'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/hosanna/projects/testing/smartCityBus/web/index.php'
+    'PATH_INFO' => '/gii/crud'
+    'PHP_SELF' => '/index.php/gii/crud'
+    'HTTP_HOST' => '127.0.0.1:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://127.0.0.1:8080/gii/crud'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'HTTP_CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '564'
+    'HTTP_CONTENT_LENGTH' => '564'
+    'HTTP_COOKIE' => 'PHPSESSID=dlbnhrvihn0lc9sspjokjmhk25; _csrf=929f94adde0a5a7617e7b8282b25c7e706b830c7649761f9290dfd1aee18df4ea%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22vp95e3RPGXjeZpNacfYiPzQuE2bn7Eun%22%3B%7D'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1530664456.8845
+    'REQUEST_TIME' => 1530664456
+]
+2018-07-04 00:38:36 [127.0.0.1][-][dlbnhrvihn0lc9sspjokjmhk25][error][yii\base\InvalidConfigException] yii\base\InvalidConfigException: The table does not exist: Route in /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/db/ActiveRecord.php:387
+Stack trace:
+#0 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/db/ActiveRecord.php(408): yii\db\ActiveRecord::getTableSchema()
+#1 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2-gii/src/generators/crud/Generator.php(154): yii\db\ActiveRecord::primaryKey()
+#2 [internal function]: yii\gii\generators\crud\Generator->validateModelClass('modelClass', NULL, Object(yii\validators\InlineValidator))
+#3 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/validators/InlineValidator.php(72): call_user_func(Array, 'modelClass', NULL, Object(yii\validators\InlineValidator))
+#4 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/validators/Validator.php(267): yii\validators\InlineValidator->validateAttribute(Object(yii\gii\generators\crud\Generator), 'modelClass')
+#5 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Model.php(367): yii\validators\Validator->validateAttributes(Object(yii\gii\generators\crud\Generator), Array)
+#6 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2-gii/src/controllers/DefaultController.php(59): yii\base\Model->validate()
+#7 [internal function]: yii\gii\controllers\DefaultController->actionView('crud')
+#8 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#9 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#10 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('view', Array)
+#11 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('gii/default/vie...', Array)
+#12 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#13 /home/hosanna/projects/testing/smartCityBus/web/index.php(12): yii\base\Application->run()
+#14 {main}
+2018-07-04 00:38:36 [127.0.0.1][-][dlbnhrvihn0lc9sspjokjmhk25][info][application] $_GET = [
+    'id' => 'crud'
+]
+
+$_POST = [
+    '_csrf' => 'Z8QmSi0UDV21Dq8ZsIri20cr3UuENSC5di2_lfnucPIRtB9_SCdfDfJWxXzq-qy6JE2EItRPccwzH937zqsFnA=='
+    'Generator' => [
+        'modelClass' => 'app\\models\\Route'
+        'searchModelClass' => 'app\\models\\RouteSearch'
+        'controllerClass' => 'app\\controllers\\RouteController'
+        'viewPath' => '@app\\views\\route'
+        'baseControllerClass' => 'yii\\web\\Controller'
+        'indexWidgetType' => 'grid'
+        'enableI18N' => '0'
+        'enablePjax' => '1'
+        'messageCategory' => 'app'
+        'template' => 'default'
+    ]
+    'preview' => ''
+]
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'dlbnhrvihn0lc9sspjokjmhk25'
+    '_csrf' => '929f94adde0a5a7617e7b8282b25c7e706b830c7649761f9290dfd1aee18df4ea:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"vp95e3RPGXjeZpNacfYiPzQuE2bn7Eun\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/hosanna/projects/testing/smartCityBus/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '51560'
+    'SERVER_SOFTWARE' => 'PHP 7.2.5-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/gii/crud'
+    'REQUEST_METHOD' => 'POST'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/hosanna/projects/testing/smartCityBus/web/index.php'
+    'PATH_INFO' => '/gii/crud'
+    'PHP_SELF' => '/index.php/gii/crud'
+    'HTTP_HOST' => '127.0.0.1:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://127.0.0.1:8080/gii/crud'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'HTTP_CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '572'
+    'HTTP_CONTENT_LENGTH' => '572'
+    'HTTP_COOKIE' => 'PHPSESSID=dlbnhrvihn0lc9sspjokjmhk25; _csrf=929f94adde0a5a7617e7b8282b25c7e706b830c7649761f9290dfd1aee18df4ea%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22vp95e3RPGXjeZpNacfYiPzQuE2bn7Eun%22%3B%7D'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1530664716.4632
+    'REQUEST_TIME' => 1530664716
+]
+2018-07-04 01:49:26 [127.0.0.1][-][dlbnhrvihn0lc9sspjokjmhk25][error][yii\base\ErrorException:8] yii\base\ErrorException: Trying to get property 'username' of non-object in /home/hosanna/projects/testing/smartCityBus/views/layouts/header.php:25
+Stack trace:
+#0 /home/hosanna/projects/testing/smartCityBus/views/layouts/header.php(25): yii\base\ErrorHandler->handleError(8, 'Trying to get p...', '/home/hosanna/p...', 25, Array)
+#1 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(336): require('/home/hosanna/p...')
+#2 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(254): yii\base\View->renderPhpFile('/home/hosanna/p...', Array)
+#3 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile('/home/hosanna/p...', Array, NULL)
+#4 /home/hosanna/projects/testing/smartCityBus/views/layouts/main.php(45): yii\base\View->render('header.php', Array)
+#5 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(336): require('/home/hosanna/p...')
+#6 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(254): yii\base\View->renderPhpFile('/home/hosanna/p...', Array)
+#7 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(399): yii\base\View->renderFile('/home/hosanna/p...', Array, Object(app\controllers\SiteController))
+#8 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(385): yii\base\Controller->renderContent('<div class="sit...')
+#9 /home/hosanna/projects/testing/smartCityBus/controllers/SiteController.php(64): yii\base\Controller->render('index')
+#10 [internal function]: app\controllers\SiteController->actionIndex()
+#11 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#12 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#13 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('', Array)
+#14 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('', Array)
+#15 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#16 /home/hosanna/projects/testing/smartCityBus/web/index.php(12): yii\base\Application->run()
+#17 {main}
+2018-07-04 01:49:26 [127.0.0.1][-][dlbnhrvihn0lc9sspjokjmhk25][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'dlbnhrvihn0lc9sspjokjmhk25'
+    '_csrf' => '929f94adde0a5a7617e7b8282b25c7e706b830c7649761f9290dfd1aee18df4ea:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"vp95e3RPGXjeZpNacfYiPzQuE2bn7Eun\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/hosanna/projects/testing/smartCityBus/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '54040'
+    'SERVER_SOFTWARE' => 'PHP 7.2.5-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/hosanna/projects/testing/smartCityBus/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => '127.0.0.1:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_COOKIE' => 'PHPSESSID=dlbnhrvihn0lc9sspjokjmhk25; _csrf=929f94adde0a5a7617e7b8282b25c7e706b830c7649761f9290dfd1aee18df4ea%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22vp95e3RPGXjeZpNacfYiPzQuE2bn7Eun%22%3B%7D'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1530668966.7678
+    'REQUEST_TIME' => 1530668966
+]
+2018-07-04 01:51:36 [127.0.0.1][1][oba4afgrdjtv0atr68s19jmh8o][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "address". in /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('address', Array)
+#1 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /home/hosanna/projects/testing/smartCityBus/web/index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/hosanna/projects/testing/smartCityBus/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2018-07-04 01:51:36 [127.0.0.1][1][oba4afgrdjtv0atr68s19jmh8o][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'oba4afgrdjtv0atr68s19jmh8o'
+    '_csrf' => 'e64b119e3c1e158245f34e92b70a057dc05f0bc350e86a0f14a9c1e5697412faa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"5qzpGRTcyxc46LixBEudT8s5TJFZG6ra\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__id' => 1
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/hosanna/projects/testing/smartCityBus/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '54268'
+    'SERVER_SOFTWARE' => 'PHP 7.2.5-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/address'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/hosanna/projects/testing/smartCityBus/web/index.php'
+    'PATH_INFO' => '/address'
+    'PHP_SELF' => '/index.php/address'
+    'HTTP_HOST' => '127.0.0.1:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://127.0.0.1:8080/scanner'
+    'HTTP_COOKIE' => 'PHPSESSID=oba4afgrdjtv0atr68s19jmh8o; _csrf=e64b119e3c1e158245f34e92b70a057dc05f0bc350e86a0f14a9c1e5697412faa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%225qzpGRTcyxc46LixBEudT8s5TJFZG6ra%22%3B%7D'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1530669096.2254
+    'REQUEST_TIME' => 1530669096
+]
+2018-07-04 01:58:41 [127.0.0.1][1][oba4afgrdjtv0atr68s19jmh8o][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "address". in /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('address', Array)
+#1 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /home/hosanna/projects/testing/smartCityBus/web/index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/hosanna/projects/testing/smartCityBus/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2018-07-04 01:58:41 [127.0.0.1][1][oba4afgrdjtv0atr68s19jmh8o][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'oba4afgrdjtv0atr68s19jmh8o'
+    '_csrf' => 'e64b119e3c1e158245f34e92b70a057dc05f0bc350e86a0f14a9c1e5697412faa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"5qzpGRTcyxc46LixBEudT8s5TJFZG6ra\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__id' => 1
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/hosanna/projects/testing/smartCityBus/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '54628'
+    'SERVER_SOFTWARE' => 'PHP 7.2.5-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/address'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/hosanna/projects/testing/smartCityBus/web/index.php'
+    'PATH_INFO' => '/address'
+    'PHP_SELF' => '/index.php/address'
+    'HTTP_HOST' => '127.0.0.1:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://127.0.0.1:8080/scanner'
+    'HTTP_COOKIE' => 'PHPSESSID=oba4afgrdjtv0atr68s19jmh8o; _csrf=e64b119e3c1e158245f34e92b70a057dc05f0bc350e86a0f14a9c1e5697412faa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%225qzpGRTcyxc46LixBEudT8s5TJFZG6ra%22%3B%7D'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1530669521.3254
+    'REQUEST_TIME' => 1530669521
+]
+2018-07-04 05:32:17 [127.0.0.1][-][-][error][yii\base\ErrorException:8] yii\base\ErrorException: Trying to get property 'username' of non-object in /home/hosanna/projects/testing/smartCityBus/views/layouts/header.php:25
+Stack trace:
+#0 /home/hosanna/projects/testing/smartCityBus/views/layouts/header.php(25): yii\base\ErrorHandler->handleError(8, 'Trying to get p...', '/home/hosanna/p...', 25, Array)
+#1 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(336): require('/home/hosanna/p...')
+#2 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(254): yii\base\View->renderPhpFile('/home/hosanna/p...', Array)
+#3 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile('/home/hosanna/p...', Array, NULL)
+#4 /home/hosanna/projects/testing/smartCityBus/views/layouts/main.php(45): yii\base\View->render('header.php', Array)
+#5 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(336): require('/home/hosanna/p...')
+#6 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(254): yii\base\View->renderPhpFile('/home/hosanna/p...', Array)
+#7 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(399): yii\base\View->renderFile('/home/hosanna/p...', Array, Object(app\controllers\SiteController))
+#8 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(385): yii\base\Controller->renderContent('')
+#9 /home/hosanna/projects/testing/smartCityBus/controllers/SiteController.php(64): yii\base\Controller->render('index')
+#10 [internal function]: app\controllers\SiteController->actionIndex()
+#11 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#12 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#13 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('', Array)
+#14 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('', Array)
+#15 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#16 /home/hosanna/projects/testing/smartCityBus/web/index.php(12): yii\base\Application->run()
+#17 {main}
+2018-07-04 05:32:17 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'oba4afgrdjtv0atr68s19jmh8o'
+    '_csrf' => 'e64b119e3c1e158245f34e92b70a057dc05f0bc350e86a0f14a9c1e5697412faa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"5qzpGRTcyxc46LixBEudT8s5TJFZG6ra\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/hosanna/projects/testing/smartCityBus/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '54970'
+    'SERVER_SOFTWARE' => 'PHP 7.2.5-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/hosanna/projects/testing/smartCityBus/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => '127.0.0.1:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://127.0.0.1:8080/address'
+    'HTTP_COOKIE' => 'PHPSESSID=oba4afgrdjtv0atr68s19jmh8o; _csrf=e64b119e3c1e158245f34e92b70a057dc05f0bc350e86a0f14a9c1e5697412faa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%225qzpGRTcyxc46LixBEudT8s5TJFZG6ra%22%3B%7D'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1530682337.6377
+    'REQUEST_TIME' => 1530682337
+]
+2018-07-04 05:32:17 [127.0.0.1][-][oba4afgrdjtv0atr68s19jmh8o][error][yii\base\ErrorException:8] yii\base\ErrorException: Trying to get property 'username' of non-object in /home/hosanna/projects/testing/smartCityBus/views/layouts/header.php:25
+Stack trace:
+#0 /home/hosanna/projects/testing/smartCityBus/views/layouts/header.php(25): yii\base\ErrorHandler->handleError(8, 'Trying to get p...', '/home/hosanna/p...', 25, Array)
+#1 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(336): require('/home/hosanna/p...')
+#2 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(254): yii\base\View->renderPhpFile('/home/hosanna/p...', Array)
+#3 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile('/home/hosanna/p...', Array, NULL)
+#4 /home/hosanna/projects/testing/smartCityBus/views/layouts/main.php(45): yii\base\View->render('header.php', Array)
+#5 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(336): require('/home/hosanna/p...')
+#6 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(254): yii\base\View->renderPhpFile('/home/hosanna/p...', Array)
+#7 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(399): yii\base\View->renderFile('/home/hosanna/p...', Array, Object(app\controllers\SiteController))
+#8 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(385): yii\base\Controller->renderContent('')
+#9 /home/hosanna/projects/testing/smartCityBus/controllers/SiteController.php(64): yii\base\Controller->render('index')
+#10 [internal function]: app\controllers\SiteController->actionIndex()
+#11 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#12 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#13 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('', Array)
+#14 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('', Array)
+#15 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#16 /home/hosanna/projects/testing/smartCityBus/web/index.php(12): yii\base\Application->run()
+#17 {main}
+2018-07-04 05:32:17 [127.0.0.1][-][oba4afgrdjtv0atr68s19jmh8o][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'oba4afgrdjtv0atr68s19jmh8o'
+    '_csrf' => 'e64b119e3c1e158245f34e92b70a057dc05f0bc350e86a0f14a9c1e5697412faa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"5qzpGRTcyxc46LixBEudT8s5TJFZG6ra\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/hosanna/projects/testing/smartCityBus/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '54972'
+    'SERVER_SOFTWARE' => 'PHP 7.2.5-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/hosanna/projects/testing/smartCityBus/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => '127.0.0.1:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://127.0.0.1:8080/address'
+    'HTTP_COOKIE' => 'PHPSESSID=oba4afgrdjtv0atr68s19jmh8o; _csrf=e64b119e3c1e158245f34e92b70a057dc05f0bc350e86a0f14a9c1e5697412faa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%225qzpGRTcyxc46LixBEudT8s5TJFZG6ra%22%3B%7D'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1530682337.824
+    'REQUEST_TIME' => 1530682337
+]
+2018-07-04 05:32:23 [127.0.0.1][-][oba4afgrdjtv0atr68s19jmh8o][error][yii\base\ErrorException:8] yii\base\ErrorException: Trying to get property 'username' of non-object in /home/hosanna/projects/testing/smartCityBus/views/layouts/header.php:25
+Stack trace:
+#0 /home/hosanna/projects/testing/smartCityBus/views/layouts/header.php(25): yii\base\ErrorHandler->handleError(8, 'Trying to get p...', '/home/hosanna/p...', 25, Array)
+#1 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(336): require('/home/hosanna/p...')
+#2 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(254): yii\base\View->renderPhpFile('/home/hosanna/p...', Array)
+#3 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile('/home/hosanna/p...', Array, NULL)
+#4 /home/hosanna/projects/testing/smartCityBus/views/layouts/main.php(45): yii\base\View->render('header.php', Array)
+#5 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(336): require('/home/hosanna/p...')
+#6 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(254): yii\base\View->renderPhpFile('/home/hosanna/p...', Array)
+#7 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(399): yii\base\View->renderFile('/home/hosanna/p...', Array, Object(app\controllers\SiteController))
+#8 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(385): yii\base\Controller->renderContent('')
+#9 /home/hosanna/projects/testing/smartCityBus/controllers/SiteController.php(64): yii\base\Controller->render('index')
+#10 [internal function]: app\controllers\SiteController->actionIndex()
+#11 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#12 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#13 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('', Array)
+#14 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('', Array)
+#15 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#16 /home/hosanna/projects/testing/smartCityBus/web/index.php(12): yii\base\Application->run()
+#17 {main}
+2018-07-04 05:32:23 [127.0.0.1][-][oba4afgrdjtv0atr68s19jmh8o][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'oba4afgrdjtv0atr68s19jmh8o'
+    '_csrf' => 'e64b119e3c1e158245f34e92b70a057dc05f0bc350e86a0f14a9c1e5697412faa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"5qzpGRTcyxc46LixBEudT8s5TJFZG6ra\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/hosanna/projects/testing/smartCityBus/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '54976'
+    'SERVER_SOFTWARE' => 'PHP 7.2.5-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/hosanna/projects/testing/smartCityBus/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => '127.0.0.1:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_COOKIE' => 'PHPSESSID=oba4afgrdjtv0atr68s19jmh8o; _csrf=e64b119e3c1e158245f34e92b70a057dc05f0bc350e86a0f14a9c1e5697412faa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%225qzpGRTcyxc46LixBEudT8s5TJFZG6ra%22%3B%7D'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1530682343.0882
+    'REQUEST_TIME' => 1530682343
+]
+2018-07-04 05:32:29 [127.0.0.1][-][oba4afgrdjtv0atr68s19jmh8o][error][yii\base\ErrorException:8] yii\base\ErrorException: Trying to get property 'username' of non-object in /home/hosanna/projects/testing/smartCityBus/views/layouts/header.php:25
+Stack trace:
+#0 /home/hosanna/projects/testing/smartCityBus/views/layouts/header.php(25): yii\base\ErrorHandler->handleError(8, 'Trying to get p...', '/home/hosanna/p...', 25, Array)
+#1 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(336): require('/home/hosanna/p...')
+#2 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(254): yii\base\View->renderPhpFile('/home/hosanna/p...', Array)
+#3 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile('/home/hosanna/p...', Array, NULL)
+#4 /home/hosanna/projects/testing/smartCityBus/views/layouts/main.php(45): yii\base\View->render('header.php', Array)
+#5 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(336): require('/home/hosanna/p...')
+#6 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(254): yii\base\View->renderPhpFile('/home/hosanna/p...', Array)
+#7 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(399): yii\base\View->renderFile('/home/hosanna/p...', Array, Object(app\controllers\SiteController))
+#8 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(385): yii\base\Controller->renderContent('')
+#9 /home/hosanna/projects/testing/smartCityBus/controllers/SiteController.php(64): yii\base\Controller->render('index')
+#10 [internal function]: app\controllers\SiteController->actionIndex()
+#11 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#12 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#13 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('', Array)
+#14 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('', Array)
+#15 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#16 /home/hosanna/projects/testing/smartCityBus/web/index.php(12): yii\base\Application->run()
+#17 {main}
+2018-07-04 05:32:29 [127.0.0.1][-][oba4afgrdjtv0atr68s19jmh8o][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'oba4afgrdjtv0atr68s19jmh8o'
+    '_csrf' => 'e64b119e3c1e158245f34e92b70a057dc05f0bc350e86a0f14a9c1e5697412faa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"5qzpGRTcyxc46LixBEudT8s5TJFZG6ra\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/hosanna/projects/testing/smartCityBus/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '54978'
+    'SERVER_SOFTWARE' => 'PHP 7.2.5-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/hosanna/projects/testing/smartCityBus/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => '127.0.0.1:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_COOKIE' => 'PHPSESSID=oba4afgrdjtv0atr68s19jmh8o; _csrf=e64b119e3c1e158245f34e92b70a057dc05f0bc350e86a0f14a9c1e5697412faa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%225qzpGRTcyxc46LixBEudT8s5TJFZG6ra%22%3B%7D'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1530682349.0084
+    'REQUEST_TIME' => 1530682349
+]
+2018-07-04 05:35:06 [127.0.0.1][-][oba4afgrdjtv0atr68s19jmh8o][error][Error] Error: Call to a member function is_Guest() on null in /home/hosanna/projects/testing/smartCityBus/views/layouts/header.php:25
+Stack trace:
+#0 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(336): require()
+#1 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(254): yii\base\View->renderPhpFile('/home/hosanna/p...', Array)
+#2 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile('/home/hosanna/p...', Array, NULL)
+#3 /home/hosanna/projects/testing/smartCityBus/views/layouts/main.php(45): yii\base\View->render('header.php', Array)
+#4 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(336): require('/home/hosanna/p...')
+#5 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(254): yii\base\View->renderPhpFile('/home/hosanna/p...', Array)
+#6 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(399): yii\base\View->renderFile('/home/hosanna/p...', Array, Object(app\controllers\SiteController))
+#7 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(385): yii\base\Controller->renderContent('')
+#8 /home/hosanna/projects/testing/smartCityBus/controllers/SiteController.php(64): yii\base\Controller->render('index')
+#9 [internal function]: app\controllers\SiteController->actionIndex()
+#10 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#11 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#12 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('', Array)
+#13 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('', Array)
+#14 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#15 /home/hosanna/projects/testing/smartCityBus/web/index.php(12): yii\base\Application->run()
+#16 {main}
+2018-07-04 05:35:06 [127.0.0.1][-][oba4afgrdjtv0atr68s19jmh8o][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'oba4afgrdjtv0atr68s19jmh8o'
+    '_csrf' => 'e64b119e3c1e158245f34e92b70a057dc05f0bc350e86a0f14a9c1e5697412faa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"5qzpGRTcyxc46LixBEudT8s5TJFZG6ra\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/hosanna/projects/testing/smartCityBus/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '54988'
+    'SERVER_SOFTWARE' => 'PHP 7.2.5-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/hosanna/projects/testing/smartCityBus/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => '127.0.0.1:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_COOKIE' => 'PHPSESSID=oba4afgrdjtv0atr68s19jmh8o; _csrf=e64b119e3c1e158245f34e92b70a057dc05f0bc350e86a0f14a9c1e5697412faa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%225qzpGRTcyxc46LixBEudT8s5TJFZG6ra%22%3B%7D'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1530682506.4625
+    'REQUEST_TIME' => 1530682506
+]
+2018-07-04 05:36:46 [127.0.0.1][-][oba4afgrdjtv0atr68s19jmh8o][error][ParseError] ParseError: syntax error, unexpected 'if' (T_IF) in /home/hosanna/projects/testing/smartCityBus/views/layouts/header.php:25
+Stack trace:
+#0 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(254): yii\base\View->renderPhpFile('/home/hosanna/p...', Array)
+#1 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile('/home/hosanna/p...', Array, NULL)
+#2 /home/hosanna/projects/testing/smartCityBus/views/layouts/main.php(45): yii\base\View->render('header.php', Array)
+#3 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(336): require('/home/hosanna/p...')
+#4 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(254): yii\base\View->renderPhpFile('/home/hosanna/p...', Array)
+#5 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(399): yii\base\View->renderFile('/home/hosanna/p...', Array, Object(app\controllers\SiteController))
+#6 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(385): yii\base\Controller->renderContent('')
+#7 /home/hosanna/projects/testing/smartCityBus/controllers/SiteController.php(64): yii\base\Controller->render('index')
+#8 [internal function]: app\controllers\SiteController->actionIndex()
+#9 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#10 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#11 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('', Array)
+#12 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('', Array)
+#13 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#14 /home/hosanna/projects/testing/smartCityBus/web/index.php(12): yii\base\Application->run()
+#15 {main}
+2018-07-04 05:36:46 [127.0.0.1][-][oba4afgrdjtv0atr68s19jmh8o][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'oba4afgrdjtv0atr68s19jmh8o'
+    '_csrf' => 'e64b119e3c1e158245f34e92b70a057dc05f0bc350e86a0f14a9c1e5697412faa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"5qzpGRTcyxc46LixBEudT8s5TJFZG6ra\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/hosanna/projects/testing/smartCityBus/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '55010'
+    'SERVER_SOFTWARE' => 'PHP 7.2.5-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/hosanna/projects/testing/smartCityBus/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => '127.0.0.1:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_COOKIE' => 'PHPSESSID=oba4afgrdjtv0atr68s19jmh8o; _csrf=e64b119e3c1e158245f34e92b70a057dc05f0bc350e86a0f14a9c1e5697412faa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%225qzpGRTcyxc46LixBEudT8s5TJFZG6ra%22%3B%7D'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1530682606.5745
+    'REQUEST_TIME' => 1530682606
+]
+2018-07-04 05:37:52 [127.0.0.1][-][oba4afgrdjtv0atr68s19jmh8o][error][ParseError] ParseError: syntax error, unexpected '}', expecting ',' or ';' in /home/hosanna/projects/testing/smartCityBus/views/layouts/header.php:30
+Stack trace:
+#0 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(254): yii\base\View->renderPhpFile('/home/hosanna/p...', Array)
+#1 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile('/home/hosanna/p...', Array, NULL)
+#2 /home/hosanna/projects/testing/smartCityBus/views/layouts/main.php(45): yii\base\View->render('header.php', Array)
+#3 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(336): require('/home/hosanna/p...')
+#4 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(254): yii\base\View->renderPhpFile('/home/hosanna/p...', Array)
+#5 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(399): yii\base\View->renderFile('/home/hosanna/p...', Array, Object(app\controllers\SiteController))
+#6 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(385): yii\base\Controller->renderContent('')
+#7 /home/hosanna/projects/testing/smartCityBus/controllers/SiteController.php(64): yii\base\Controller->render('index')
+#8 [internal function]: app\controllers\SiteController->actionIndex()
+#9 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#10 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#11 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('', Array)
+#12 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('', Array)
+#13 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#14 /home/hosanna/projects/testing/smartCityBus/web/index.php(12): yii\base\Application->run()
+#15 {main}
+2018-07-04 05:37:52 [127.0.0.1][-][oba4afgrdjtv0atr68s19jmh8o][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'oba4afgrdjtv0atr68s19jmh8o'
+    '_csrf' => 'e64b119e3c1e158245f34e92b70a057dc05f0bc350e86a0f14a9c1e5697412faa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"5qzpGRTcyxc46LixBEudT8s5TJFZG6ra\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/hosanna/projects/testing/smartCityBus/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '55022'
+    'SERVER_SOFTWARE' => 'PHP 7.2.5-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/hosanna/projects/testing/smartCityBus/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => '127.0.0.1:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_COOKIE' => 'PHPSESSID=oba4afgrdjtv0atr68s19jmh8o; _csrf=e64b119e3c1e158245f34e92b70a057dc05f0bc350e86a0f14a9c1e5697412faa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%225qzpGRTcyxc46LixBEudT8s5TJFZG6ra%22%3B%7D'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1530682672.4061
+    'REQUEST_TIME' => 1530682672
+]
+2018-07-04 05:38:28 [127.0.0.1][-][oba4afgrdjtv0atr68s19jmh8o][error][Error] Error: Call to a member function is_Guest() on null in /home/hosanna/projects/testing/smartCityBus/views/layouts/header.php:25
+Stack trace:
+#0 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(336): require()
+#1 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(254): yii\base\View->renderPhpFile('/home/hosanna/p...', Array)
+#2 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile('/home/hosanna/p...', Array, NULL)
+#3 /home/hosanna/projects/testing/smartCityBus/views/layouts/main.php(45): yii\base\View->render('header.php', Array)
+#4 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(336): require('/home/hosanna/p...')
+#5 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(254): yii\base\View->renderPhpFile('/home/hosanna/p...', Array)
+#6 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(399): yii\base\View->renderFile('/home/hosanna/p...', Array, Object(app\controllers\SiteController))
+#7 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(385): yii\base\Controller->renderContent('')
+#8 /home/hosanna/projects/testing/smartCityBus/controllers/SiteController.php(64): yii\base\Controller->render('index')
+#9 [internal function]: app\controllers\SiteController->actionIndex()
+#10 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#11 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#12 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('', Array)
+#13 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('', Array)
+#14 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#15 /home/hosanna/projects/testing/smartCityBus/web/index.php(12): yii\base\Application->run()
+#16 {main}
+2018-07-04 05:38:28 [127.0.0.1][-][oba4afgrdjtv0atr68s19jmh8o][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'oba4afgrdjtv0atr68s19jmh8o'
+    '_csrf' => 'e64b119e3c1e158245f34e92b70a057dc05f0bc350e86a0f14a9c1e5697412faa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"5qzpGRTcyxc46LixBEudT8s5TJFZG6ra\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/hosanna/projects/testing/smartCityBus/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '55034'
+    'SERVER_SOFTWARE' => 'PHP 7.2.5-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/hosanna/projects/testing/smartCityBus/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => '127.0.0.1:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_COOKIE' => 'PHPSESSID=oba4afgrdjtv0atr68s19jmh8o; _csrf=e64b119e3c1e158245f34e92b70a057dc05f0bc350e86a0f14a9c1e5697412faa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%225qzpGRTcyxc46LixBEudT8s5TJFZG6ra%22%3B%7D'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1530682708.1335
+    'REQUEST_TIME' => 1530682708
+]
+2018-07-04 05:39:38 [127.0.0.1][-][oba4afgrdjtv0atr68s19jmh8o][error][yii\base\ErrorException:8] yii\base\ErrorException: Trying to get property 'isGuest' of non-object in /home/hosanna/projects/testing/smartCityBus/views/layouts/header.php:25
+Stack trace:
+#0 /home/hosanna/projects/testing/smartCityBus/views/layouts/header.php(25): yii\base\ErrorHandler->handleError(8, 'Trying to get p...', '/home/hosanna/p...', 25, Array)
+#1 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(336): require('/home/hosanna/p...')
+#2 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(254): yii\base\View->renderPhpFile('/home/hosanna/p...', Array)
+#3 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile('/home/hosanna/p...', Array, NULL)
+#4 /home/hosanna/projects/testing/smartCityBus/views/layouts/main.php(45): yii\base\View->render('header.php', Array)
+#5 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(336): require('/home/hosanna/p...')
+#6 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(254): yii\base\View->renderPhpFile('/home/hosanna/p...', Array)
+#7 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(399): yii\base\View->renderFile('/home/hosanna/p...', Array, Object(app\controllers\SiteController))
+#8 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(385): yii\base\Controller->renderContent('')
+#9 /home/hosanna/projects/testing/smartCityBus/controllers/SiteController.php(64): yii\base\Controller->render('index')
+#10 [internal function]: app\controllers\SiteController->actionIndex()
+#11 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#12 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#13 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('', Array)
+#14 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('', Array)
+#15 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#16 /home/hosanna/projects/testing/smartCityBus/web/index.php(12): yii\base\Application->run()
+#17 {main}
+2018-07-04 05:39:38 [127.0.0.1][-][oba4afgrdjtv0atr68s19jmh8o][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'oba4afgrdjtv0atr68s19jmh8o'
+    '_csrf' => 'e64b119e3c1e158245f34e92b70a057dc05f0bc350e86a0f14a9c1e5697412faa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"5qzpGRTcyxc46LixBEudT8s5TJFZG6ra\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/hosanna/projects/testing/smartCityBus/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '55046'
+    'SERVER_SOFTWARE' => 'PHP 7.2.5-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/hosanna/projects/testing/smartCityBus/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => '127.0.0.1:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_COOKIE' => 'PHPSESSID=oba4afgrdjtv0atr68s19jmh8o; _csrf=e64b119e3c1e158245f34e92b70a057dc05f0bc350e86a0f14a9c1e5697412faa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%225qzpGRTcyxc46LixBEudT8s5TJFZG6ra%22%3B%7D'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1530682778.155
+    'REQUEST_TIME' => 1530682778
+]
+2018-07-04 05:42:07 [127.0.0.1][1][gam6quagg4l65as0i2moagkffe][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "address". in /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('address', Array)
+#1 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /home/hosanna/projects/testing/smartCityBus/web/index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/hosanna/projects/testing/smartCityBus/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2018-07-04 05:42:07 [127.0.0.1][1][gam6quagg4l65as0i2moagkffe][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'gam6quagg4l65as0i2moagkffe'
+    '_csrf' => '5ad5727f62057289e74d8b1a3288cf2807c1c271b60c7d42f9f87764696bfacaa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"Igv8d2JiNLpNHNQx_QRuha7J14zgvVes\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__id' => 1
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/hosanna/projects/testing/smartCityBus/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '55336'
+    'SERVER_SOFTWARE' => 'PHP 7.2.5-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/address'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/hosanna/projects/testing/smartCityBus/web/index.php'
+    'PATH_INFO' => '/address'
+    'PHP_SELF' => '/index.php/address'
+    'HTTP_HOST' => '127.0.0.1:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://127.0.0.1:8080/agent/create'
+    'HTTP_COOKIE' => 'PHPSESSID=gam6quagg4l65as0i2moagkffe; _csrf=5ad5727f62057289e74d8b1a3288cf2807c1c271b60c7d42f9f87764696bfacaa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22Igv8d2JiNLpNHNQx_QRuha7J14zgvVes%22%3B%7D'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1530682927.568
+    'REQUEST_TIME' => 1530682927
+]
+2018-07-04 05:43:27 [127.0.0.1][1][gam6quagg4l65as0i2moagkffe][error][yii\base\InvalidConfigException] yii\base\InvalidConfigException: The table does not exist: Address in /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/db/ActiveRecord.php:387
+Stack trace:
+#0 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/db/ActiveRecord.php(408): yii\db\ActiveRecord::getTableSchema()
+#1 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2-gii/src/generators/crud/Generator.php(154): yii\db\ActiveRecord::primaryKey()
+#2 [internal function]: yii\gii\generators\crud\Generator->validateModelClass('modelClass', NULL, Object(yii\validators\InlineValidator))
+#3 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/validators/InlineValidator.php(72): call_user_func(Array, 'modelClass', NULL, Object(yii\validators\InlineValidator))
+#4 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/validators/Validator.php(267): yii\validators\InlineValidator->validateAttribute(Object(yii\gii\generators\crud\Generator), 'modelClass')
+#5 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Model.php(367): yii\validators\Validator->validateAttributes(Object(yii\gii\generators\crud\Generator), Array)
+#6 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2-gii/src/controllers/DefaultController.php(59): yii\base\Model->validate()
+#7 [internal function]: yii\gii\controllers\DefaultController->actionView('crud')
+#8 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#9 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#10 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('view', Array)
+#11 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('gii/default/vie...', Array)
+#12 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#13 /home/hosanna/projects/testing/smartCityBus/web/index.php(12): yii\base\Application->run()
+#14 {main}
+2018-07-04 05:43:27 [127.0.0.1][1][gam6quagg4l65as0i2moagkffe][info][application] $_GET = [
+    'id' => 'crud'
+]
+
+$_POST = [
+    '_csrf' => 'fV9BaQe3-pFYYA12-f_RemflL2pNuz6kMLg2eJRDNlc0ODdRY4Ww-BYsfTixsYACOLR9HyXaCe4BjEwf4hVTJA=='
+    'Generator' => [
+        'modelClass' => 'app\\models\\Address'
+        'searchModelClass' => ''
+        'controllerClass' => 'app\\controllers\\AddressController'
+        'viewPath' => '@app\\views\\address'
+        'baseControllerClass' => 'yii\\web\\Controller'
+        'indexWidgetType' => 'grid'
+        'enableI18N' => '0'
+        'enablePjax' => '1'
+        'messageCategory' => 'app'
+        'template' => 'default'
+    ]
+    'preview' => ''
+]
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'gam6quagg4l65as0i2moagkffe'
+    '_csrf' => '5ad5727f62057289e74d8b1a3288cf2807c1c271b60c7d42f9f87764696bfacaa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"Igv8d2JiNLpNHNQx_QRuha7J14zgvVes\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__id' => 1
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/hosanna/projects/testing/smartCityBus/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '55408'
+    'SERVER_SOFTWARE' => 'PHP 7.2.5-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/gii/crud'
+    'REQUEST_METHOD' => 'POST'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/hosanna/projects/testing/smartCityBus/web/index.php'
+    'PATH_INFO' => '/gii/crud'
+    'PHP_SELF' => '/index.php/gii/crud'
+    'HTTP_HOST' => '127.0.0.1:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://127.0.0.1:8080/gii/crud'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'HTTP_CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '552'
+    'HTTP_CONTENT_LENGTH' => '552'
+    'HTTP_COOKIE' => 'PHPSESSID=gam6quagg4l65as0i2moagkffe; _csrf=5ad5727f62057289e74d8b1a3288cf2807c1c271b60c7d42f9f87764696bfacaa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22Igv8d2JiNLpNHNQx_QRuha7J14zgvVes%22%3B%7D'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1530683007.762
+    'REQUEST_TIME' => 1530683007
+]
+2018-07-04 06:01:00 [127.0.0.1][1][gam6quagg4l65as0i2moagkffe][error][yii\web\HttpException:405] yii\web\MethodNotAllowedHttpException: Method Not Allowed. This URL can only handle the following request methods: POST. in /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/filters/VerbFilter.php:105
+Stack trace:
+#0 [internal function]: yii\filters\VerbFilter->beforeAction(Object(yii\base\ActionEvent))
+#1 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Component.php(627): call_user_func(Array, Object(yii\base\ActionEvent))
+#2 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(274): yii\base\Component->trigger('beforeAction', Object(yii\base\ActionEvent))
+#3 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Controller.php(164): yii\base\Controller->beforeAction(Object(yii\base\InlineAction))
+#4 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(155): yii\web\Controller->beforeAction(Object(yii\base\InlineAction))
+#5 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('logout', Array)
+#6 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('site/logout', Array)
+#7 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#8 /home/hosanna/projects/testing/smartCityBus/web/index.php(12): yii\base\Application->run()
+#9 {main}
+2018-07-04 06:01:00 [127.0.0.1][1][gam6quagg4l65as0i2moagkffe][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'gam6quagg4l65as0i2moagkffe'
+    '_csrf' => '5ad5727f62057289e74d8b1a3288cf2807c1c271b60c7d42f9f87764696bfacaa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"Igv8d2JiNLpNHNQx_QRuha7J14zgvVes\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__id' => 1
+    'actions-redirect' => '/user/admin/index'
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/hosanna/projects/testing/smartCityBus/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '56222'
+    'SERVER_SOFTWARE' => 'PHP 7.2.5-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/site/logout'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/hosanna/projects/testing/smartCityBus/web/index.php'
+    'PATH_INFO' => '/site/logout'
+    'PHP_SELF' => '/index.php/site/logout'
+    'HTTP_HOST' => '127.0.0.1:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://127.0.0.1:8080/bus-owner/view?id=2'
+    'HTTP_COOKIE' => 'PHPSESSID=gam6quagg4l65as0i2moagkffe; _csrf=5ad5727f62057289e74d8b1a3288cf2807c1c271b60c7d42f9f87764696bfacaa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22Igv8d2JiNLpNHNQx_QRuha7J14zgvVes%22%3B%7D'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1530684060.0859
+    'REQUEST_TIME' => 1530684060
+]
+2018-07-04 06:02:25 [127.0.0.1][1][gam6quagg4l65as0i2moagkffe][error][yii\web\HttpException:405] yii\web\MethodNotAllowedHttpException: Method Not Allowed. This URL can only handle the following request methods: POST. in /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/filters/VerbFilter.php:105
+Stack trace:
+#0 [internal function]: yii\filters\VerbFilter->beforeAction(Object(yii\base\ActionEvent))
+#1 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Component.php(627): call_user_func(Array, Object(yii\base\ActionEvent))
+#2 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(274): yii\base\Component->trigger('beforeAction', Object(yii\base\ActionEvent))
+#3 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Controller.php(164): yii\base\Controller->beforeAction(Object(yii\base\InlineAction))
+#4 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(155): yii\web\Controller->beforeAction(Object(yii\base\InlineAction))
+#5 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('logout', Array)
+#6 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('user/security/l...', Array)
+#7 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#8 /home/hosanna/projects/testing/smartCityBus/web/index.php(12): yii\base\Application->run()
+#9 {main}
+2018-07-04 06:02:25 [127.0.0.1][1][gam6quagg4l65as0i2moagkffe][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'gam6quagg4l65as0i2moagkffe'
+    '_csrf' => '5ad5727f62057289e74d8b1a3288cf2807c1c271b60c7d42f9f87764696bfacaa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"Igv8d2JiNLpNHNQx_QRuha7J14zgvVes\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__id' => 1
+    'actions-redirect' => '/user/admin/index'
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/hosanna/projects/testing/smartCityBus/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '56248'
+    'SERVER_SOFTWARE' => 'PHP 7.2.5-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/user/security/logout'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/hosanna/projects/testing/smartCityBus/web/index.php'
+    'PATH_INFO' => '/user/security/logout'
+    'PHP_SELF' => '/index.php/user/security/logout'
+    'HTTP_HOST' => '127.0.0.1:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_COOKIE' => 'PHPSESSID=gam6quagg4l65as0i2moagkffe; _csrf=5ad5727f62057289e74d8b1a3288cf2807c1c271b60c7d42f9f87764696bfacaa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22Igv8d2JiNLpNHNQx_QRuha7J14zgvVes%22%3B%7D'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1530684145.2083
+    'REQUEST_TIME' => 1530684145
+]
+2018-07-04 06:13:38 [127.0.0.1][1][-][error][yii\web\HttpException:405] yii\web\MethodNotAllowedHttpException: Method Not Allowed. This URL can only handle the following request methods: POST. in /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/filters/VerbFilter.php:105
+Stack trace:
+#0 [internal function]: yii\filters\VerbFilter->beforeAction(Object(yii\base\ActionEvent))
+#1 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Component.php(627): call_user_func(Array, Object(yii\base\ActionEvent))
+#2 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(274): yii\base\Component->trigger('beforeAction', Object(yii\base\ActionEvent))
+#3 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Controller.php(164): yii\base\Controller->beforeAction(Object(yii\base\InlineAction))
+#4 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(155): yii\web\Controller->beforeAction(Object(yii\base\InlineAction))
+#5 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('logout', Array)
+#6 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('user/security/l...', Array)
+#7 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#8 /home/hosanna/projects/testing/smartCityBus/web/index.php(12): yii\base\Application->run()
+#9 {main}
+2018-07-04 06:13:38 [127.0.0.1][1][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'gam6quagg4l65as0i2moagkffe'
+    '_csrf' => '5ad5727f62057289e74d8b1a3288cf2807c1c271b60c7d42f9f87764696bfacaa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"Igv8d2JiNLpNHNQx_QRuha7J14zgvVes\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__id' => 1
+    'actions-redirect' => '/user/admin/index'
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/hosanna/projects/testing/smartCityBus/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '56474'
+    'SERVER_SOFTWARE' => 'PHP 7.2.5-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/user/security/logout'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/hosanna/projects/testing/smartCityBus/web/index.php'
+    'PATH_INFO' => '/user/security/logout'
+    'PHP_SELF' => '/index.php/user/security/logout'
+    'HTTP_HOST' => '127.0.0.1:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_COOKIE' => 'PHPSESSID=gam6quagg4l65as0i2moagkffe; _csrf=5ad5727f62057289e74d8b1a3288cf2807c1c271b60c7d42f9f87764696bfacaa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22Igv8d2JiNLpNHNQx_QRuha7J14zgvVes%22%3B%7D'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1530684818.5136
+    'REQUEST_TIME' => 1530684818
+]
+2018-07-04 06:14:00 [127.0.0.1][1][-][error][yii\web\HttpException:405] yii\web\MethodNotAllowedHttpException: Method Not Allowed. This URL can only handle the following request methods: POST. in /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/filters/VerbFilter.php:105
+Stack trace:
+#0 [internal function]: yii\filters\VerbFilter->beforeAction(Object(yii\base\ActionEvent))
+#1 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Component.php(627): call_user_func(Array, Object(yii\base\ActionEvent))
+#2 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(274): yii\base\Component->trigger('beforeAction', Object(yii\base\ActionEvent))
+#3 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Controller.php(164): yii\base\Controller->beforeAction(Object(yii\base\InlineAction))
+#4 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(155): yii\web\Controller->beforeAction(Object(yii\base\InlineAction))
+#5 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('logout', Array)
+#6 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('user/security/l...', Array)
+#7 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#8 /home/hosanna/projects/testing/smartCityBus/web/index.php(12): yii\base\Application->run()
+#9 {main}
+2018-07-04 06:14:00 [127.0.0.1][1][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'gam6quagg4l65as0i2moagkffe'
+    '_csrf' => '5ad5727f62057289e74d8b1a3288cf2807c1c271b60c7d42f9f87764696bfacaa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"Igv8d2JiNLpNHNQx_QRuha7J14zgvVes\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__id' => 1
+    'actions-redirect' => '/user/admin/index'
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/hosanna/projects/testing/smartCityBus/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '56476'
+    'SERVER_SOFTWARE' => 'PHP 7.2.5-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/user/security/logout'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/hosanna/projects/testing/smartCityBus/web/index.php'
+    'PATH_INFO' => '/user/security/logout'
+    'PHP_SELF' => '/index.php/user/security/logout'
+    'HTTP_HOST' => '127.0.0.1:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_COOKIE' => 'PHPSESSID=gam6quagg4l65as0i2moagkffe; _csrf=5ad5727f62057289e74d8b1a3288cf2807c1c271b60c7d42f9f87764696bfacaa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22Igv8d2JiNLpNHNQx_QRuha7J14zgvVes%22%3B%7D'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1530684840.2525
+    'REQUEST_TIME' => 1530684840
+]
+2018-07-04 06:14:48 [127.0.0.1][1][gam6quagg4l65as0i2moagkffe][error][yii\web\HttpException:405] yii\web\MethodNotAllowedHttpException: Method Not Allowed. This URL can only handle the following request methods: POST. in /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/filters/VerbFilter.php:105
+Stack trace:
+#0 [internal function]: yii\filters\VerbFilter->beforeAction(Object(yii\base\ActionEvent))
+#1 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Component.php(627): call_user_func(Array, Object(yii\base\ActionEvent))
+#2 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(274): yii\base\Component->trigger('beforeAction', Object(yii\base\ActionEvent))
+#3 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Controller.php(164): yii\base\Controller->beforeAction(Object(yii\base\InlineAction))
+#4 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(155): yii\web\Controller->beforeAction(Object(yii\base\InlineAction))
+#5 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('logout', Array)
+#6 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('user/security/l...', Array)
+#7 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#8 /home/hosanna/projects/testing/smartCityBus/web/index.php(12): yii\base\Application->run()
+#9 {main}
+2018-07-04 06:14:48 [127.0.0.1][1][gam6quagg4l65as0i2moagkffe][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'gam6quagg4l65as0i2moagkffe'
+    '_csrf' => '5ad5727f62057289e74d8b1a3288cf2807c1c271b60c7d42f9f87764696bfacaa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"Igv8d2JiNLpNHNQx_QRuha7J14zgvVes\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__id' => 1
+    'actions-redirect' => '/user/admin/index'
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/hosanna/projects/testing/smartCityBus/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '56478'
+    'SERVER_SOFTWARE' => 'PHP 7.2.5-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/user/security/logout'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/hosanna/projects/testing/smartCityBus/web/index.php'
+    'PATH_INFO' => '/user/security/logout'
+    'PHP_SELF' => '/index.php/user/security/logout'
+    'HTTP_HOST' => '127.0.0.1:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_COOKIE' => 'PHPSESSID=gam6quagg4l65as0i2moagkffe; _csrf=5ad5727f62057289e74d8b1a3288cf2807c1c271b60c7d42f9f87764696bfacaa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22Igv8d2JiNLpNHNQx_QRuha7J14zgvVes%22%3B%7D'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1530684888.778
+    'REQUEST_TIME' => 1530684888
+]
+2018-07-04 06:15:14 [127.0.0.1][1][gam6quagg4l65as0i2moagkffe][error][yii\web\HttpException:405] yii\web\MethodNotAllowedHttpException: Method Not Allowed. This URL can only handle the following request methods: POST. in /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/filters/VerbFilter.php:105
+Stack trace:
+#0 [internal function]: yii\filters\VerbFilter->beforeAction(Object(yii\base\ActionEvent))
+#1 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Component.php(627): call_user_func(Array, Object(yii\base\ActionEvent))
+#2 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(274): yii\base\Component->trigger('beforeAction', Object(yii\base\ActionEvent))
+#3 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Controller.php(164): yii\base\Controller->beforeAction(Object(yii\base\InlineAction))
+#4 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(155): yii\web\Controller->beforeAction(Object(yii\base\InlineAction))
+#5 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('logout', Array)
+#6 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('user/security/l...', Array)
+#7 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#8 /home/hosanna/projects/testing/smartCityBus/web/index.php(12): yii\base\Application->run()
+#9 {main}
+2018-07-04 06:15:14 [127.0.0.1][1][gam6quagg4l65as0i2moagkffe][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'gam6quagg4l65as0i2moagkffe'
+    '_csrf' => '5ad5727f62057289e74d8b1a3288cf2807c1c271b60c7d42f9f87764696bfacaa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"Igv8d2JiNLpNHNQx_QRuha7J14zgvVes\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__id' => 1
+    'actions-redirect' => '/user/admin/index'
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/hosanna/projects/testing/smartCityBus/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '56506'
+    'SERVER_SOFTWARE' => 'PHP 7.2.5-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/user/security/logout'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/hosanna/projects/testing/smartCityBus/web/index.php'
+    'PATH_INFO' => '/user/security/logout'
+    'PHP_SELF' => '/index.php/user/security/logout'
+    'HTTP_HOST' => '127.0.0.1:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_COOKIE' => 'PHPSESSID=gam6quagg4l65as0i2moagkffe; _csrf=5ad5727f62057289e74d8b1a3288cf2807c1c271b60c7d42f9f87764696bfacaa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22Igv8d2JiNLpNHNQx_QRuha7J14zgvVes%22%3B%7D'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1530684914.9669
+    'REQUEST_TIME' => 1530684914
+]
+2018-07-04 06:17:53 [127.0.0.1][-][02h6crp56h8j166ku2joi6k9kr][error][ParseError] ParseError: syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /home/hosanna/projects/testing/smartCityBus/views/layouts/left.php:80
+Stack trace:
+#0 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(254): yii\base\View->renderPhpFile('/home/hosanna/p...', Array)
+#1 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile('/home/hosanna/p...', Array, NULL)
+#2 /home/hosanna/projects/testing/smartCityBus/views/layouts/main.php(50): yii\base\View->render('left.php', Array)
+#3 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(336): require('/home/hosanna/p...')
+#4 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(254): yii\base\View->renderPhpFile('/home/hosanna/p...', Array)
+#5 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(399): yii\base\View->renderFile('/home/hosanna/p...', Array, Object(app\controllers\SiteController))
+#6 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(385): yii\base\Controller->renderContent('')
+#7 /home/hosanna/projects/testing/smartCityBus/controllers/SiteController.php(64): yii\base\Controller->render('index')
+#8 [internal function]: app\controllers\SiteController->actionIndex()
+#9 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#10 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#11 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('', Array)
+#12 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('', Array)
+#13 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#14 /home/hosanna/projects/testing/smartCityBus/web/index.php(12): yii\base\Application->run()
+#15 {main}
+2018-07-04 06:17:53 [127.0.0.1][-][02h6crp56h8j166ku2joi6k9kr][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '02h6crp56h8j166ku2joi6k9kr'
+    '_csrf' => '5ad5727f62057289e74d8b1a3288cf2807c1c271b60c7d42f9f87764696bfacaa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"Igv8d2JiNLpNHNQx_QRuha7J14zgvVes\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/hosanna/projects/testing/smartCityBus/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '56620'
+    'SERVER_SOFTWARE' => 'PHP 7.2.5-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/hosanna/projects/testing/smartCityBus/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => '127.0.0.1:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://127.0.0.1:8080/user/security/logout'
+    'HTTP_COOKIE' => 'PHPSESSID=02h6crp56h8j166ku2joi6k9kr; _csrf=5ad5727f62057289e74d8b1a3288cf2807c1c271b60c7d42f9f87764696bfacaa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22Igv8d2JiNLpNHNQx_QRuha7J14zgvVes%22%3B%7D'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1530685073.9051
+    'REQUEST_TIME' => 1530685073
+]
+2018-07-04 06:18:46 [127.0.0.1][-][02h6crp56h8j166ku2joi6k9kr][error][ParseError] ParseError: syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /home/hosanna/projects/testing/smartCityBus/views/layouts/left.php:83
+Stack trace:
+#0 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(254): yii\base\View->renderPhpFile('/home/hosanna/p...', Array)
+#1 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile('/home/hosanna/p...', Array, NULL)
+#2 /home/hosanna/projects/testing/smartCityBus/views/layouts/main.php(50): yii\base\View->render('left.php', Array)
+#3 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(336): require('/home/hosanna/p...')
+#4 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(254): yii\base\View->renderPhpFile('/home/hosanna/p...', Array)
+#5 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(399): yii\base\View->renderFile('/home/hosanna/p...', Array, Object(app\controllers\SiteController))
+#6 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(385): yii\base\Controller->renderContent('')
+#7 /home/hosanna/projects/testing/smartCityBus/controllers/SiteController.php(64): yii\base\Controller->render('index')
+#8 [internal function]: app\controllers\SiteController->actionIndex()
+#9 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#10 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#11 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('', Array)
+#12 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('', Array)
+#13 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#14 /home/hosanna/projects/testing/smartCityBus/web/index.php(12): yii\base\Application->run()
+#15 {main}
+2018-07-04 06:18:46 [127.0.0.1][-][02h6crp56h8j166ku2joi6k9kr][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '02h6crp56h8j166ku2joi6k9kr'
+    '_csrf' => '5ad5727f62057289e74d8b1a3288cf2807c1c271b60c7d42f9f87764696bfacaa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"Igv8d2JiNLpNHNQx_QRuha7J14zgvVes\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/hosanna/projects/testing/smartCityBus/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '56632'
+    'SERVER_SOFTWARE' => 'PHP 7.2.5-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/hosanna/projects/testing/smartCityBus/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => '127.0.0.1:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://127.0.0.1:8080/user/security/logout'
+    'HTTP_COOKIE' => 'PHPSESSID=02h6crp56h8j166ku2joi6k9kr; _csrf=5ad5727f62057289e74d8b1a3288cf2807c1c271b60c7d42f9f87764696bfacaa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22Igv8d2JiNLpNHNQx_QRuha7J14zgvVes%22%3B%7D'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1530685126.2441
+    'REQUEST_TIME' => 1530685126
+]
+2018-07-04 06:19:26 [127.0.0.1][-][02h6crp56h8j166ku2joi6k9kr][error][ParseError] ParseError: syntax error, unexpected ')' in /home/hosanna/projects/testing/smartCityBus/views/layouts/left.php:86
+Stack trace:
+#0 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(254): yii\base\View->renderPhpFile('/home/hosanna/p...', Array)
+#1 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile('/home/hosanna/p...', Array, NULL)
+#2 /home/hosanna/projects/testing/smartCityBus/views/layouts/main.php(50): yii\base\View->render('left.php', Array)
+#3 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(336): require('/home/hosanna/p...')
+#4 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(254): yii\base\View->renderPhpFile('/home/hosanna/p...', Array)
+#5 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(399): yii\base\View->renderFile('/home/hosanna/p...', Array, Object(app\controllers\SiteController))
+#6 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(385): yii\base\Controller->renderContent('')
+#7 /home/hosanna/projects/testing/smartCityBus/controllers/SiteController.php(64): yii\base\Controller->render('index')
+#8 [internal function]: app\controllers\SiteController->actionIndex()
+#9 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#10 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#11 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('', Array)
+#12 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('', Array)
+#13 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#14 /home/hosanna/projects/testing/smartCityBus/web/index.php(12): yii\base\Application->run()
+#15 {main}
+2018-07-04 06:19:26 [127.0.0.1][-][02h6crp56h8j166ku2joi6k9kr][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '02h6crp56h8j166ku2joi6k9kr'
+    '_csrf' => '5ad5727f62057289e74d8b1a3288cf2807c1c271b60c7d42f9f87764696bfacaa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"Igv8d2JiNLpNHNQx_QRuha7J14zgvVes\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/hosanna/projects/testing/smartCityBus/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '56646'
+    'SERVER_SOFTWARE' => 'PHP 7.2.5-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/hosanna/projects/testing/smartCityBus/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => '127.0.0.1:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://127.0.0.1:8080/user/security/logout'
+    'HTTP_COOKIE' => 'PHPSESSID=02h6crp56h8j166ku2joi6k9kr; _csrf=5ad5727f62057289e74d8b1a3288cf2807c1c271b60c7d42f9f87764696bfacaa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22Igv8d2JiNLpNHNQx_QRuha7J14zgvVes%22%3B%7D'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1530685166.2102
+    'REQUEST_TIME' => 1530685166
+]
+2018-07-04 06:36:24 [127.0.0.1][1][u2saorgc8b5a02t0u449ac2jom][error][ParseError] ParseError: syntax error, unexpected 'echo' (T_ECHO) in /home/hosanna/projects/testing/smartCityBus/views/layouts/header.php:22
+Stack trace:
+#0 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(254): yii\base\View->renderPhpFile('/home/hosanna/p...', Array)
+#1 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile('/home/hosanna/p...', Array, NULL)
+#2 /home/hosanna/projects/testing/smartCityBus/views/layouts/main.php(45): yii\base\View->render('header.php', Array)
+#3 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(336): require('/home/hosanna/p...')
+#4 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(254): yii\base\View->renderPhpFile('/home/hosanna/p...', Array)
+#5 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(399): yii\base\View->renderFile('/home/hosanna/p...', Array, Object(app\controllers\SiteController))
+#6 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(385): yii\base\Controller->renderContent('')
+#7 /home/hosanna/projects/testing/smartCityBus/controllers/SiteController.php(64): yii\base\Controller->render('index')
+#8 [internal function]: app\controllers\SiteController->actionIndex()
+#9 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#10 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#11 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('', Array)
+#12 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('', Array)
+#13 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#14 /home/hosanna/projects/testing/smartCityBus/web/index.php(12): yii\base\Application->run()
+#15 {main}
+2018-07-04 06:36:24 [127.0.0.1][1][u2saorgc8b5a02t0u449ac2jom][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'u2saorgc8b5a02t0u449ac2jom'
+    '_csrf' => '1fb93121d5f50d3042f16195544c57def689de7598af3d7621f500a72d9fd99aa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"YCc6WxJL7KqRacuZZs-rJngdQXBV3y6d\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__id' => 1
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/hosanna/projects/testing/smartCityBus/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57016'
+    'SERVER_SOFTWARE' => 'PHP 7.2.5-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/hosanna/projects/testing/smartCityBus/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => '127.0.0.1:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://127.0.0.1:8080/user/login'
+    'HTTP_COOKIE' => 'PHPSESSID=u2saorgc8b5a02t0u449ac2jom; _csrf=1fb93121d5f50d3042f16195544c57def689de7598af3d7621f500a72d9fd99aa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22YCc6WxJL7KqRacuZZs-rJngdQXBV3y6d%22%3B%7D'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1530686184.1319
+    'REQUEST_TIME' => 1530686184
+]
+2018-07-04 06:38:37 [127.0.0.1][1][u2saorgc8b5a02t0u449ac2jom][error][ParseError] ParseError: syntax error, unexpected 'Sign' (T_STRING), expecting ',' or ';' in /home/hosanna/projects/testing/smartCityBus/views/layouts/header.php:59
+Stack trace:
+#0 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(254): yii\base\View->renderPhpFile('/home/hosanna/p...', Array)
+#1 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile('/home/hosanna/p...', Array, NULL)
+#2 /home/hosanna/projects/testing/smartCityBus/views/layouts/main.php(45): yii\base\View->render('header.php', Array)
+#3 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(336): require('/home/hosanna/p...')
+#4 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(254): yii\base\View->renderPhpFile('/home/hosanna/p...', Array)
+#5 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(399): yii\base\View->renderFile('/home/hosanna/p...', Array, Object(app\controllers\SiteController))
+#6 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(385): yii\base\Controller->renderContent('')
+#7 /home/hosanna/projects/testing/smartCityBus/controllers/SiteController.php(64): yii\base\Controller->render('index')
+#8 [internal function]: app\controllers\SiteController->actionIndex()
+#9 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#10 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#11 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('', Array)
+#12 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('', Array)
+#13 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#14 /home/hosanna/projects/testing/smartCityBus/web/index.php(12): yii\base\Application->run()
+#15 {main}
+2018-07-04 06:38:37 [127.0.0.1][1][u2saorgc8b5a02t0u449ac2jom][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'u2saorgc8b5a02t0u449ac2jom'
+    '_csrf' => '1fb93121d5f50d3042f16195544c57def689de7598af3d7621f500a72d9fd99aa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"YCc6WxJL7KqRacuZZs-rJngdQXBV3y6d\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__id' => 1
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/hosanna/projects/testing/smartCityBus/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57028'
+    'SERVER_SOFTWARE' => 'PHP 7.2.5-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/hosanna/projects/testing/smartCityBus/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => '127.0.0.1:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://127.0.0.1:8080/user/login'
+    'HTTP_COOKIE' => 'PHPSESSID=u2saorgc8b5a02t0u449ac2jom; _csrf=1fb93121d5f50d3042f16195544c57def689de7598af3d7621f500a72d9fd99aa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22YCc6WxJL7KqRacuZZs-rJngdQXBV3y6d%22%3B%7D'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1530686317.805
+    'REQUEST_TIME' => 1530686317
+]
+2018-07-04 06:40:15 [127.0.0.1][1][u2saorgc8b5a02t0u449ac2jom][error][ParseError] ParseError: syntax error, unexpected '<', expecting end of file in /home/hosanna/projects/testing/smartCityBus/views/layouts/header.php:74
+Stack trace:
+#0 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(254): yii\base\View->renderPhpFile('/home/hosanna/p...', Array)
+#1 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile('/home/hosanna/p...', Array, NULL)
+#2 /home/hosanna/projects/testing/smartCityBus/views/layouts/main.php(45): yii\base\View->render('header.php', Array)
+#3 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(336): require('/home/hosanna/p...')
+#4 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(254): yii\base\View->renderPhpFile('/home/hosanna/p...', Array)
+#5 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(399): yii\base\View->renderFile('/home/hosanna/p...', Array, Object(app\controllers\SiteController))
+#6 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(385): yii\base\Controller->renderContent('')
+#7 /home/hosanna/projects/testing/smartCityBus/controllers/SiteController.php(64): yii\base\Controller->render('index')
+#8 [internal function]: app\controllers\SiteController->actionIndex()
+#9 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#10 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#11 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('', Array)
+#12 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('', Array)
+#13 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#14 /home/hosanna/projects/testing/smartCityBus/web/index.php(12): yii\base\Application->run()
+#15 {main}
+2018-07-04 06:40:15 [127.0.0.1][1][u2saorgc8b5a02t0u449ac2jom][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'u2saorgc8b5a02t0u449ac2jom'
+    '_csrf' => '1fb93121d5f50d3042f16195544c57def689de7598af3d7621f500a72d9fd99aa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"YCc6WxJL7KqRacuZZs-rJngdQXBV3y6d\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__id' => 1
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/hosanna/projects/testing/smartCityBus/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57040'
+    'SERVER_SOFTWARE' => 'PHP 7.2.5-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/hosanna/projects/testing/smartCityBus/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => '127.0.0.1:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://127.0.0.1:8080/user/login'
+    'HTTP_COOKIE' => 'PHPSESSID=u2saorgc8b5a02t0u449ac2jom; _csrf=1fb93121d5f50d3042f16195544c57def689de7598af3d7621f500a72d9fd99aa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22YCc6WxJL7KqRacuZZs-rJngdQXBV3y6d%22%3B%7D'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1530686415.4035
+    'REQUEST_TIME' => 1530686415
+]
+2018-07-04 06:41:09 [127.0.0.1][-][7k1n17gctk9kbk1fjir1hhf8s3][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "<". in /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('<', Array)
+#1 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /home/hosanna/projects/testing/smartCityBus/web/index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/hosanna/projects/testing/smartCityBus/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2018-07-04 06:41:09 [127.0.0.1][-][7k1n17gctk9kbk1fjir1hhf8s3][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '7k1n17gctk9kbk1fjir1hhf8s3'
+    '_csrf' => '1fb93121d5f50d3042f16195544c57def689de7598af3d7621f500a72d9fd99aa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"YCc6WxJL7KqRacuZZs-rJngdQXBV3y6d\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/hosanna/projects/testing/smartCityBus/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57094'
+    'SERVER_SOFTWARE' => 'PHP 7.2.5-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/%3C?=%20$directoryAsset%20?%3E/img/user2-160x160.jpg'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/hosanna/projects/testing/smartCityBus/web/index.php'
+    'PATH_INFO' => '/<'
+    'PHP_SELF' => '/index.php/<'
+    'QUERY_STRING' => '=%20$directoryAsset%20?%3E/img/user2-160x160.jpg'
+    'HTTP_HOST' => '127.0.0.1:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://127.0.0.1:8080/'
+    'HTTP_COOKIE' => 'PHPSESSID=7k1n17gctk9kbk1fjir1hhf8s3; _csrf=1fb93121d5f50d3042f16195544c57def689de7598af3d7621f500a72d9fd99aa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22YCc6WxJL7KqRacuZZs-rJngdQXBV3y6d%22%3B%7D'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'REQUEST_TIME_FLOAT' => 1530686469.5395
+    'REQUEST_TIME' => 1530686469
+]
+2018-07-04 06:42:37 [127.0.0.1][1][c280ven7s5trgk5ed708nuhpuh][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "<". in /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('<', Array)
+#1 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /home/hosanna/projects/testing/smartCityBus/web/index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/hosanna/projects/testing/smartCityBus/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2018-07-04 06:42:37 [127.0.0.1][1][c280ven7s5trgk5ed708nuhpuh][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'c280ven7s5trgk5ed708nuhpuh'
+    '_csrf' => '7397dc6154eb22f5ea9e20897fc49f4d4cd4e045d137389929ec512c20fef50fa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"mLlk7QGpTkmrQ79I_R0YuszXoEfBBEXB\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__id' => 1
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/hosanna/projects/testing/smartCityBus/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57182'
+    'SERVER_SOFTWARE' => 'PHP 7.2.5-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/%3C?=%20$directoryAsset%20?%3E/img/user2-160x160.jpg'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/hosanna/projects/testing/smartCityBus/web/index.php'
+    'PATH_INFO' => '/<'
+    'PHP_SELF' => '/index.php/<'
+    'QUERY_STRING' => '=%20$directoryAsset%20?%3E/img/user2-160x160.jpg'
+    'HTTP_HOST' => '127.0.0.1:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://127.0.0.1:8080/'
+    'HTTP_COOKIE' => 'PHPSESSID=c280ven7s5trgk5ed708nuhpuh; _csrf=7397dc6154eb22f5ea9e20897fc49f4d4cd4e045d137389929ec512c20fef50fa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22mLlk7QGpTkmrQ79I_R0YuszXoEfBBEXB%22%3B%7D'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1530686557.7115
+    'REQUEST_TIME' => 1530686557
+]
+2018-07-04 06:43:35 [127.0.0.1][1][c280ven7s5trgk5ed708nuhpuh][error][ParseError] ParseError: syntax error, unexpected '"' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) in /home/hosanna/projects/testing/smartCityBus/views/layouts/header.php:24
+Stack trace:
+#0 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(254): yii\base\View->renderPhpFile('/home/hosanna/p...', Array)
+#1 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile('/home/hosanna/p...', Array, NULL)
+#2 /home/hosanna/projects/testing/smartCityBus/views/layouts/main.php(45): yii\base\View->render('header.php', Array)
+#3 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(336): require('/home/hosanna/p...')
+#4 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(254): yii\base\View->renderPhpFile('/home/hosanna/p...', Array)
+#5 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(399): yii\base\View->renderFile('/home/hosanna/p...', Array, Object(app\controllers\SiteController))
+#6 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(385): yii\base\Controller->renderContent('')
+#7 /home/hosanna/projects/testing/smartCityBus/controllers/SiteController.php(64): yii\base\Controller->render('index')
+#8 [internal function]: app\controllers\SiteController->actionIndex()
+#9 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#10 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#11 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('', Array)
+#12 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('', Array)
+#13 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#14 /home/hosanna/projects/testing/smartCityBus/web/index.php(12): yii\base\Application->run()
+#15 {main}
+2018-07-04 06:43:35 [127.0.0.1][1][c280ven7s5trgk5ed708nuhpuh][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'c280ven7s5trgk5ed708nuhpuh'
+    '_csrf' => '7397dc6154eb22f5ea9e20897fc49f4d4cd4e045d137389929ec512c20fef50fa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"mLlk7QGpTkmrQ79I_R0YuszXoEfBBEXB\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__id' => 1
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/hosanna/projects/testing/smartCityBus/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57200'
+    'SERVER_SOFTWARE' => 'PHP 7.2.5-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/hosanna/projects/testing/smartCityBus/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => '127.0.0.1:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://127.0.0.1:8080/user/login'
+    'HTTP_COOKIE' => 'PHPSESSID=c280ven7s5trgk5ed708nuhpuh; _csrf=7397dc6154eb22f5ea9e20897fc49f4d4cd4e045d137389929ec512c20fef50fa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22mLlk7QGpTkmrQ79I_R0YuszXoEfBBEXB%22%3B%7D'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1530686615.5864
+    'REQUEST_TIME' => 1530686615
+]
+2018-07-04 06:45:00 [127.0.0.1][1][c280ven7s5trgk5ed708nuhpuh][error][ParseError] ParseError: syntax error, unexpected ''Sign out\',' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) in /home/hosanna/projects/testing/smartCityBus/views/layouts/header.php:60
+Stack trace:
+#0 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(254): yii\base\View->renderPhpFile('/home/hosanna/p...', Array)
+#1 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile('/home/hosanna/p...', Array, NULL)
+#2 /home/hosanna/projects/testing/smartCityBus/views/layouts/main.php(45): yii\base\View->render('header.php', Array)
+#3 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(336): require('/home/hosanna/p...')
+#4 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(254): yii\base\View->renderPhpFile('/home/hosanna/p...', Array)
+#5 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(399): yii\base\View->renderFile('/home/hosanna/p...', Array, Object(app\controllers\SiteController))
+#6 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(385): yii\base\Controller->renderContent('')
+#7 /home/hosanna/projects/testing/smartCityBus/controllers/SiteController.php(64): yii\base\Controller->render('index')
+#8 [internal function]: app\controllers\SiteController->actionIndex()
+#9 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#10 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#11 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('', Array)
+#12 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('', Array)
+#13 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#14 /home/hosanna/projects/testing/smartCityBus/web/index.php(12): yii\base\Application->run()
+#15 {main}
+2018-07-04 06:45:00 [127.0.0.1][1][c280ven7s5trgk5ed708nuhpuh][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'c280ven7s5trgk5ed708nuhpuh'
+    '_csrf' => '7397dc6154eb22f5ea9e20897fc49f4d4cd4e045d137389929ec512c20fef50fa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"mLlk7QGpTkmrQ79I_R0YuszXoEfBBEXB\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__id' => 1
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/hosanna/projects/testing/smartCityBus/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57212'
+    'SERVER_SOFTWARE' => 'PHP 7.2.5-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/hosanna/projects/testing/smartCityBus/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => '127.0.0.1:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://127.0.0.1:8080/user/login'
+    'HTTP_COOKIE' => 'PHPSESSID=c280ven7s5trgk5ed708nuhpuh; _csrf=7397dc6154eb22f5ea9e20897fc49f4d4cd4e045d137389929ec512c20fef50fa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22mLlk7QGpTkmrQ79I_R0YuszXoEfBBEXB%22%3B%7D'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1530686700.679
+    'REQUEST_TIME' => 1530686700
+]
+2018-07-04 06:45:46 [127.0.0.1][1][c280ven7s5trgk5ed708nuhpuh][error][ParseError] ParseError: syntax error, unexpected ''],' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home/hosanna/projects/testing/smartCityBus/views/layouts/header.php:60
+Stack trace:
+#0 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(254): yii\base\View->renderPhpFile('/home/hosanna/p...', Array)
+#1 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile('/home/hosanna/p...', Array, NULL)
+#2 /home/hosanna/projects/testing/smartCityBus/views/layouts/main.php(45): yii\base\View->render('header.php', Array)
+#3 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(336): require('/home/hosanna/p...')
+#4 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(254): yii\base\View->renderPhpFile('/home/hosanna/p...', Array)
+#5 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(399): yii\base\View->renderFile('/home/hosanna/p...', Array, Object(app\controllers\SiteController))
+#6 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(385): yii\base\Controller->renderContent('')
+#7 /home/hosanna/projects/testing/smartCityBus/controllers/SiteController.php(64): yii\base\Controller->render('index')
+#8 [internal function]: app\controllers\SiteController->actionIndex()
+#9 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#10 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#11 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('', Array)
+#12 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('', Array)
+#13 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#14 /home/hosanna/projects/testing/smartCityBus/web/index.php(12): yii\base\Application->run()
+#15 {main}
+2018-07-04 06:45:46 [127.0.0.1][1][c280ven7s5trgk5ed708nuhpuh][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'c280ven7s5trgk5ed708nuhpuh'
+    '_csrf' => '7397dc6154eb22f5ea9e20897fc49f4d4cd4e045d137389929ec512c20fef50fa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"mLlk7QGpTkmrQ79I_R0YuszXoEfBBEXB\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__id' => 1
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/hosanna/projects/testing/smartCityBus/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57226'
+    'SERVER_SOFTWARE' => 'PHP 7.2.5-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/hosanna/projects/testing/smartCityBus/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => '127.0.0.1:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://127.0.0.1:8080/user/login'
+    'HTTP_COOKIE' => 'PHPSESSID=c280ven7s5trgk5ed708nuhpuh; _csrf=7397dc6154eb22f5ea9e20897fc49f4d4cd4e045d137389929ec512c20fef50fa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22mLlk7QGpTkmrQ79I_R0YuszXoEfBBEXB%22%3B%7D'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1530686746.3967
+    'REQUEST_TIME' => 1530686746
+]
+2018-07-04 06:46:49 [127.0.0.1][1][c280ven7s5trgk5ed708nuhpuh][error][ParseError] ParseError: syntax error, unexpected '<' in /home/hosanna/projects/testing/smartCityBus/views/layouts/header.php:75
+Stack trace:
+#0 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(254): yii\base\View->renderPhpFile('/home/hosanna/p...', Array)
+#1 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile('/home/hosanna/p...', Array, NULL)
+#2 /home/hosanna/projects/testing/smartCityBus/views/layouts/main.php(45): yii\base\View->render('header.php', Array)
+#3 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(336): require('/home/hosanna/p...')
+#4 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/View.php(254): yii\base\View->renderPhpFile('/home/hosanna/p...', Array)
+#5 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(399): yii\base\View->renderFile('/home/hosanna/p...', Array, Object(app\controllers\SiteController))
+#6 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(385): yii\base\Controller->renderContent('')
+#7 /home/hosanna/projects/testing/smartCityBus/controllers/SiteController.php(64): yii\base\Controller->render('index')
+#8 [internal function]: app\controllers\SiteController->actionIndex()
+#9 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#10 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#11 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('', Array)
+#12 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('', Array)
+#13 /home/hosanna/projects/testing/smartCityBus/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#14 /home/hosanna/projects/testing/smartCityBus/web/index.php(12): yii\base\Application->run()
+#15 {main}
+2018-07-04 06:46:49 [127.0.0.1][1][c280ven7s5trgk5ed708nuhpuh][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'c280ven7s5trgk5ed708nuhpuh'
+    '_csrf' => '7397dc6154eb22f5ea9e20897fc49f4d4cd4e045d137389929ec512c20fef50fa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"mLlk7QGpTkmrQ79I_R0YuszXoEfBBEXB\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__id' => 1
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/hosanna/projects/testing/smartCityBus/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57266'
+    'SERVER_SOFTWARE' => 'PHP 7.2.5-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/hosanna/projects/testing/smartCityBus/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => '127.0.0.1:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://127.0.0.1:8080/user/login'
+    'HTTP_COOKIE' => 'PHPSESSID=c280ven7s5trgk5ed708nuhpuh; _csrf=7397dc6154eb22f5ea9e20897fc49f4d4cd4e045d137389929ec512c20fef50fa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22mLlk7QGpTkmrQ79I_R0YuszXoEfBBEXB%22%3B%7D'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1530686809.3534
+    'REQUEST_TIME' => 1530686809
+]
