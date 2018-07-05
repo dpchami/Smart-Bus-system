@@ -5,6 +5,7 @@ $db = require __DIR__ . '/db.php';
 
 $config = [
     'id' => 'basic',
+    'name' => 'Smart Bus System',
     'basePath' => dirname(__DIR__),
     'bootstrap' => ['log'],
     'aliases' => [
@@ -12,6 +13,12 @@ $config = [
         '@npm'   => '@vendor/npm-asset',
     ],
     'modules' => [
+        'agent' => [
+            'class' => 'app\modules\agent\Module',
+        ],
+        'owner' => [
+            'class' => 'app\modules\owner\Module',
+        ],
         'user' => [
                 'class' => Da\User\Module::class,
                 'allowUnconfirmedEmailLogin' => true,

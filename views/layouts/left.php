@@ -50,8 +50,8 @@
                         'icon' => 'fas fa-road', 
                         'url' => ['#'],
                         'items' => [
-                             ['label' => 'All Routes', 'icon' => 'fas fa-map', 'url' => ['/agent']],
-                              ['label' => 'New Route', 'icon' => 'fas fa-plus-square-o', 'url' => ['/agent/create']],
+                             ['label' => 'All Routes', 'icon' => 'fas fa-map', 'url' => ['/route']],
+                              ['label' => 'New Route', 'icon' => 'fas fa-plus-square-o', 'url' => ['/route/create']],
                         ],
                     ],
 

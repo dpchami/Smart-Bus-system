@@ -141,9 +141,25 @@ class SecurityController extends Controller
 
                 $this->trigger(FormEvent::EVENT_AFTER_LOGIN, $event);
 
-                return $this->goBack();
+                //Chami deus code for redirection user
+                 $userID = \Yii::$app->user->identity->id;
+                 $userName = \Yii::$app->user->identity->username;
+
+                 $key = key(\Yii::$app->authManager->getRolesByUser($userID));
+                 $agent = "Agent";
+                 $owner = "Owner";
+                 if (is_null($key)) {
+                    Yii::$app->getUser()->logout();
+                    throw new \yii\web\HttpException(404, "user {$userName} has no define role in the system");
+                 }
+                 elseif ($key == $agent) {
+                    return $this->redirect(['/agent/default/index']);;
+                 } elseif ($key == $owner) {
+                     return $this->redirect(['/owner/default/index']);;
+                 }
+                    return $this->goBack();
+                }
             }
-        }
 
         return $this->render(
             'login',

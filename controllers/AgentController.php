@@ -107,7 +107,7 @@ class AgentController extends Controller
         $this->findModel($id)->delete();
 
         return $this->redirect(['index']);
-    }
+    }z
 
     /**
      * Finds the Agent model based on its primary key value.

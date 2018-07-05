@@ -105,6 +105,19 @@ a.desc:after {
     }
 }
 
+.my-navbar {
+    background-color: purple;
+}
+
+.my-navbar .navbar-brand {
+    color: white;
+ }
+
+.nav > li > form > button.logout{
+    color: white;
+}
+
+
 .nav > li > form > button.logout:focus,
 .nav > li > form > button.logout:hover {
     text-decoration: none;
@@ -112,4 +125,26 @@ a.desc:after {
 
 .nav > li > form > button.logout:focus {
     outline: none;
+}
+
+/* Create two equal columns that floats next to each other */
+#column {
+    float: left;
+    padding: 10px;    
+}
+
+
+#left {
+  width: 25%;
+}
+
+#right {
+  width: 75%;
+}
+
+/* Clear floats after the columns */
+#row:after {
+    content: "";
+    display: table;
+    clear: both;
 }
