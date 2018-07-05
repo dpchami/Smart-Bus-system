@@ -3,7 +3,7 @@
     <br>
 </p>
 
-Yii 2 Basic [Yii 2](http://www.yiiframework.com/) application best for implementing smart bus system.
+Yii 2 Basic [Yii 2](http://www.yiiframework.com/) implementation of smart bus system.
 
 DIRECTORY STRUCTURE
 -------------------
