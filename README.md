@@ -55,8 +55,8 @@ test me through [My email](mailto:pascaldeus@yahoo.com)
 return [
     'class' => 'yii\db\Connection',
     'dsn' => 'mysql:host=localhost;dbname=smart',
-    'username' => 'root',
-    'password' => '1234',
+    'username' => 'your database name',
+    'password' => 'your password',
     'charset' => 'utf8',
 ];
 ```
